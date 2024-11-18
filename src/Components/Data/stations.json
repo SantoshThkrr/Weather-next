@@ -1,0 +1,4798 @@
+[
+    {
+        "Station_Name": "Kanpur Airforce",
+        "Station_Code": "53"
+    },
+    {
+        "Station_Name": "Chamba",
+        "Station_Code": "8205"
+    },
+    {
+        "Station_Name": "Faridabad",
+        "Station_Code": "10001"
+    },
+    {
+        "Station_Name": "Hamirpur",
+        "Station_Code": "11001"
+    },
+    {
+        "Station_Name": "Bokaro",
+        "Station_Code": "13001"
+    },
+    {
+        "Station_Name": "Deogarh",
+        "Station_Code": "13002"
+    },
+    {
+        "Station_Name": "Giridih",
+        "Station_Code": "13003"
+    },
+    {
+        "Station_Name": "Thane",
+        "Station_Code": "18001"
+    },
+    {
+        "Station_Name": "Champhai",
+        "Station_Code": "19001"
+    },
+    {
+        "Station_Name": "Kohima-Dimapur",
+        "Station_Code": "21001"
+    },
+    {
+        "Station_Name": "Mokokchung",
+        "Station_Code": "21002"
+    },
+    {
+        "Station_Name": "Bhabanipatna",
+        "Station_Code": "23001"
+    },
+    {
+        "Station_Name": "Mangan",
+        "Station_Code": "26001"
+    },
+    {
+        "Station_Name": "Gyalsingh",
+        "Station_Code": "26002"
+    },
+    {
+        "Station_Name": "Namchi",
+        "Station_Code": "26003"
+    },
+    {
+        "Station_Name": "Pakyong",
+        "Station_Code": "26004"
+    },
+    {
+        "Station_Name": "Soreng",
+        "Station_Code": "26005"
+    },
+    {
+        "Station_Name": "Tawang",
+        "Station_Code": "30001"
+    },
+    {
+        "Station_Name": "Anni",
+        "Station_Code": "30002"
+    },
+    {
+        "Station_Name": "Diskit Nubra",
+        "Station_Code": "30003"
+    },
+    {
+        "Station_Name": "Mathura Vrindavan",
+        "Station_Code": "30005"
+    },
+    {
+        "Station_Name": "Ooty",
+        "Station_Code": "30006"
+    },
+    {
+        "Station_Name": "Kollam",
+        "Station_Code": "30008"
+    },
+    {
+        "Station_Name": "Varkala",
+        "Station_Code": "30010"
+    },
+    {
+        "Station_Name": "Kumbalgarh",
+        "Station_Code": "30021"
+    },
+    {
+        "Station_Name": "Lachung",
+        "Station_Code": "30023"
+    },
+    {
+        "Station_Name": "Pelling",
+        "Station_Code": "30024"
+    },
+    {
+        "Station_Name": "Panipat",
+        "Station_Code": "30025"
+    },
+    {
+        "Station_Name": "Baidyanath Dham",
+        "Station_Code": "30026"
+    },
+    {
+        "Station_Name": "Bodhgaya",
+        "Station_Code": "30027"
+    },
+    {
+        "Station_Name": "Palakkad",
+        "Station_Code": "30029"
+    },
+    {
+        "Station_Name": "Champawat",
+        "Station_Code": "31001"
+    },
+    {
+        "Station_Name": "Chinchwad",
+        "Station_Code": "31002"
+    },
+    {
+        "Station_Name": "Magarpatta",
+        "Station_Code": "31003"
+    },
+    {
+        "Station_Name": "Lavale",
+        "Station_Code": "31004"
+    },
+    {
+        "Station_Name": "Barpeta",
+        "Station_Code": "40001"
+    },
+    {
+        "Station_Name": "Gulmarg",
+        "Station_Code": "42026"
+    },
+    {
+        "Station_Name": "Srinagar-City",
+        "Station_Code": "42027"
+    },
+    {
+        "Station_Name": "Pahalgam",
+        "Station_Code": "42028"
+    },
+    {
+        "Station_Name": "Kupwara",
+        "Station_Code": "42031"
+    },
+    {
+        "Station_Name": "Leh",
+        "Station_Code": "42034"
+    },
+    {
+        "Station_Name": "Batote",
+        "Station_Code": "42043"
+    },
+    {
+        "Station_Name": "Qazigund",
+        "Station_Code": "42044"
+    },
+    {
+        "Station_Name": "Banihal",
+        "Station_Code": "42045"
+    },
+    {
+        "Station_Name": "Kukernag",
+        "Station_Code": "42046"
+    },
+    {
+        "Station_Name": "Bhaderwah",
+        "Station_Code": "42048"
+    },
+    {
+        "Station_Name": "Katra",
+        "Station_Code": "42054"
+    },
+    {
+        "Station_Name": "Jammu-City",
+        "Station_Code": "42056"
+    },
+    {
+        "Station_Name": "Pathankot",
+        "Station_Code": "42057"
+    },
+    {
+        "Station_Name": "Dalhousie",
+        "Station_Code": "42059"
+    },
+    {
+        "Station_Name": "Dharamshala",
+        "Station_Code": "42062"
+    },
+    {
+        "Station_Name": "Keylong",
+        "Station_Code": "42063"
+    },
+    {
+        "Station_Name": "Manali",
+        "Station_Code": "42065"
+    },
+    {
+        "Station_Name": "Kalpa",
+        "Station_Code": "42066"
+    },
+    {
+        "Station_Name": "Amritsar",
+        "Station_Code": "42071"
+    },
+    {
+        "Station_Name": "Kapurthala",
+        "Station_Code": "42074"
+    },
+    {
+        "Station_Name": "Jalandhar",
+        "Station_Code": "42075"
+    },
+    {
+        "Station_Name": "Kangra",
+        "Station_Code": "42076"
+    },
+    {
+        "Station_Name": "Una",
+        "Station_Code": "42077"
+    },
+    {
+        "Station_Name": "Sundernagar",
+        "Station_Code": "42079"
+    },
+    {
+        "Station_Name": "Bilaspur",
+        "Station_Code": "42080"
+    },
+    {
+        "Station_Name": "Kullu",
+        "Station_Code": "42081"
+    },
+    {
+        "Station_Name": "Shimla-City",
+        "Station_Code": "42083"
+    },
+    {
+        "Station_Name": "Shimla-Airport",
+        "Station_Code": "42084"
+    },
+    {
+        "Station_Name": "Ferozepore",
+        "Station_Code": "42096"
+    },
+    {
+        "Station_Name": "Bhatinda",
+        "Station_Code": "42097"
+    },
+    {
+        "Station_Name": "Ludhiana",
+        "Station_Code": "42099"
+    },
+    {
+        "Station_Name": "Patiala",
+        "Station_Code": "42101"
+    },
+    {
+        "Station_Name": "Ambala",
+        "Station_Code": "42103"
+    },
+    {
+        "Station_Name": "Nahan",
+        "Station_Code": "42104"
+    },
+    {
+        "Station_Name": "Chandigarh-City",
+        "Station_Code": "42105"
+    },
+    {
+        "Station_Name": "Chandigarh",
+        "Station_Code": "42105"
+    },
+    {
+        "Station_Name": "Solan",
+        "Station_Code": "42106"
+    },
+    {
+        "Station_Name": "Uttarkashi",
+        "Station_Code": "42108"
+    },
+    {
+        "Station_Name": "Dehradun-Mokhampur",
+        "Station_Code": "42111"
+    },
+    {
+        "Station_Name": "Mussorie",
+        "Station_Code": "42112"
+    },
+    {
+        "Station_Name": "Tehri",
+        "Station_Code": "42114"
+    },
+    {
+        "Station_Name": "Joshimath",
+        "Station_Code": "42116"
+    },
+    {
+        "Station_Name": "Chamoli",
+        "Station_Code": "42117"
+    },
+    {
+        "Station_Name": "Sriganganagar",
+        "Station_Code": "42123"
+    },
+    {
+        "Station_Name": "Hisar",
+        "Station_Code": "42131"
+    },
+    {
+        "Station_Name": "Karnal",
+        "Station_Code": "42137"
+    },
+    {
+        "Station_Name": "Muzaffarnagar",
+        "Station_Code": "42138"
+    },
+    {
+        "Station_Name": "Meerut",
+        "Station_Code": "42139"
+    },
+    {
+        "Station_Name": "Bijnor",
+        "Station_Code": "42143"
+    },
+    {
+        "Station_Name": "Nainital",
+        "Station_Code": "42146"
+    },
+    {
+        "Station_Name": "Mukteshwar",
+        "Station_Code": "42147"
+    },
+    {
+        "Station_Name": "Pantnagar",
+        "Station_Code": "42148"
+    },
+    {
+        "Station_Name": "Bikaner",
+        "Station_Code": "42165"
+    },
+    {
+        "Station_Name": "Churu",
+        "Station_Code": "42170"
+    },
+    {
+        "Station_Name": "Pilani",
+        "Station_Code": "42174"
+    },
+    {
+        "Station_Name": "Rohtak",
+        "Station_Code": "42176"
+    },
+    {
+        "Station_Name": "Narnaul",
+        "Station_Code": "42177"
+    },
+    {
+        "Station_Name": "Gurgaon",
+        "Station_Code": "42178"
+    },
+    {
+        "Station_Name": "New Delhi-Ayanagar",
+        "Station_Code": "42180"
+    },
+    {
+        "Station_Name": "New Delhi-Palam",
+        "Station_Code": "42181"
+    },
+    {
+        "Station_Name": "New Delhi-Safdarjung",
+        "Station_Code": "42182"
+    },
+    {
+        "Station_Name": "New Delhi-Ridge",
+        "Station_Code": "42184"
+    },
+    {
+        "Station_Name": "Moradabad",
+        "Station_Code": "42187"
+    },
+    {
+        "Station_Name": "Bareilly",
+        "Station_Code": "42189"
+    },
+    {
+        "Station_Name": "Gangtok-Tadong",
+        "Station_Code": "42217"
+    },
+    {
+        "Station_Name": "Pasighat",
+        "Station_Code": "42220"
+    },
+    {
+        "Station_Name": "PHALODI",
+        "Station_Code": "42237"
+    },
+    {
+        "Station_Name": "Nagaur",
+        "Station_Code": "42242"
+    },
+    {
+        "Station_Name": "Siker",
+        "Station_Code": "42249"
+    },
+    {
+        "Station_Name": "Alwar",
+        "Station_Code": "42255"
+    },
+    {
+        "Station_Name": "Bharatpur",
+        "Station_Code": "42258"
+    },
+    {
+        "Station_Name": "Aligarh",
+        "Station_Code": "42262"
+    },
+    {
+        "Station_Name": "Mainpuri",
+        "Station_Code": "42265"
+    },
+    {
+        "Station_Name": "Shahjahanpur",
+        "Station_Code": "42266"
+    },
+    {
+        "Station_Name": "Lakhimpur Kheri",
+        "Station_Code": "42270"
+    },
+    {
+        "Station_Name": "Hardoi",
+        "Station_Code": "42271"
+    },
+    {
+        "Station_Name": "Bahraich",
+        "Station_Code": "42273"
+    },
+    {
+        "Station_Name": "Darjeeling",
+        "Station_Code": "42293"
+    },
+    {
+        "Station_Name": "Kalimpong",
+        "Station_Code": "42296"
+    },
+    {
+        "Station_Name": "Gangtok",
+        "Station_Code": "42299"
+    },
+    {
+        "Station_Name": "Itanagar",
+        "Station_Code": "42308"
+    },
+    {
+        "Station_Name": "North Lakhimpur",
+        "Station_Code": "42309"
+    },
+    {
+        "Station_Name": "Sibsagar",
+        "Station_Code": "42311"
+    },
+    {
+        "Station_Name": "Dibrugarh",
+        "Station_Code": "42314"
+    },
+    {
+        "Station_Name": "Tinsukia",
+        "Station_Code": "42317"
+    },
+    {
+        "Station_Name": "Jaisalmer",
+        "Station_Code": "42328"
+    },
+    {
+        "Station_Name": "Jodhpur",
+        "Station_Code": "42339"
+    },
+    {
+        "Station_Name": "Ajmer",
+        "Station_Code": "42343"
+    },
+    {
+        "Station_Name": "Jaipur-AMO Jaipur",
+        "Station_Code": "42348"
+    },
+    {
+        "Station_Name": "Tonk",
+        "Station_Code": "42349"
+    },
+    {
+        "Station_Name": "Bhiwani",
+        "Station_Code": "42350"
+    },
+    {
+        "Station_Name": "Dholpur",
+        "Station_Code": "42354"
+    },
+    {
+        "Station_Name": "Gwalior",
+        "Station_Code": "42361"
+    },
+    {
+        "Station_Name": "Etawah",
+        "Station_Code": "42364"
+    },
+    {
+        "Station_Name": "Kanpur",
+        "Station_Code": "42366"
+    },
+    {
+        "Station_Name": "Kanpur Barra",
+        "Station_Code": "42367"
+    },
+    {
+        "Station_Name": "Lucknow-Airport",
+        "Station_Code": "42369"
+    },
+    {
+        "Station_Name": "Barabanki",
+        "Station_Code": "42370"
+    },
+    {
+        "Station_Name": "Fursatganj",
+        "Station_Code": "42372"
+    },
+    {
+        "Station_Name": "Ayodhya",
+        "Station_Code": "42374"
+    },
+    {
+        "Station_Name": "Sultanpur",
+        "Station_Code": "42377"
+    },
+    {
+        "Station_Name": "Gorakhpur",
+        "Station_Code": "42379"
+    },
+    {
+        "Station_Name": "Azamgarh",
+        "Station_Code": "42381"
+    },
+    {
+        "Station_Name": "Motihari",
+        "Station_Code": "42383"
+    },
+    {
+        "Station_Name": "Ballia",
+        "Station_Code": "42384"
+    },
+    {
+        "Station_Name": "Muzaffarpur",
+        "Station_Code": "42387"
+    },
+    {
+        "Station_Name": "Supaul",
+        "Station_Code": "42393"
+    },
+    {
+        "Station_Name": "Farbesganj",
+        "Station_Code": "42395"
+    },
+    {
+        "Station_Name": "Siliguri",
+        "Station_Code": "42397"
+    },
+    {
+        "Station_Name": "Jalpaiguri",
+        "Station_Code": "42399"
+    },
+    {
+        "Station_Name": "Coochbehar",
+        "Station_Code": "42403"
+    },
+    {
+        "Station_Name": "Dhubri",
+        "Station_Code": "42406"
+    },
+    {
+        "Station_Name": "Goalpara",
+        "Station_Code": "42407"
+    },
+    {
+        "Station_Name": "Guwahati-Airport",
+        "Station_Code": "42410"
+    },
+    {
+        "Station_Name": "Mazbat",
+        "Station_Code": "42413"
+    },
+    {
+        "Station_Name": "Tezpur",
+        "Station_Code": "42415"
+    },
+    {
+        "Station_Name": "Golaghat",
+        "Station_Code": "42420"
+    },
+    {
+        "Station_Name": "Jorhat",
+        "Station_Code": "42423"
+    },
+    {
+        "Station_Name": "Barmer",
+        "Station_Code": "42435"
+    },
+    {
+        "Station_Name": "Jalore",
+        "Station_Code": "42439"
+    },
+    {
+        "Station_Name": "Bhilwara",
+        "Station_Code": "42447"
+    },
+    {
+        "Station_Name": "Bundi",
+        "Station_Code": "42450"
+    },
+    {
+        "Station_Name": "Kota ",
+        "Station_Code": "42452"
+    },
+    {
+        "Station_Name": "Sawai Madhopur",
+        "Station_Code": "42453"
+    },
+    {
+        "Station_Name": "Shivpuri",
+        "Station_Code": "42459"
+    },
+    {
+        "Station_Name": "Jhansi",
+        "Station_Code": "42463"
+    },
+    {
+        "Station_Name": "Hamirpur",
+        "Station_Code": "42469"
+    },
+    {
+        "Station_Name": "Banda",
+        "Station_Code": "42473"
+    },
+    {
+        "Station_Name": "Prayagraj",
+        "Station_Code": "42474"
+    },
+    {
+        "Station_Name": "Varanasi",
+        "Station_Code": "42479"
+    },
+    {
+        "Station_Name": "Varanasi BHU",
+        "Station_Code": "42483"
+    },
+    {
+        "Station_Name": "Chapra",
+        "Station_Code": "42488"
+    },
+    {
+        "Station_Name": "Patna-Airport",
+        "Station_Code": "42492"
+    },
+    {
+        "Station_Name": "Bhagalpur",
+        "Station_Code": "42498"
+    },
+    {
+        "Station_Name": "Purnea",
+        "Station_Code": "42500"
+    },
+    {
+        "Station_Name": "Malda",
+        "Station_Code": "42503"
+    },
+    {
+        "Station_Name": "Cherrapunji",
+        "Station_Code": "42515"
+    },
+    {
+        "Station_Name": "Shillong",
+        "Station_Code": "42516"
+    },
+    {
+        "Station_Name": "Lumding",
+        "Station_Code": "42523"
+    },
+    {
+        "Station_Name": "Kohima",
+        "Station_Code": "42527"
+    },
+    {
+        "Station_Name": "Deesa",
+        "Station_Code": "42539"
+    },
+    {
+        "Station_Name": "Mount Abu",
+        "Station_Code": "42540"
+    },
+    {
+        "Station_Name": "Udaipur ",
+        "Station_Code": "42542"
+    },
+    {
+        "Station_Name": "Chittorgarh",
+        "Station_Code": "42546"
+    },
+    {
+        "Station_Name": "Jhalawar",
+        "Station_Code": "42555"
+    },
+    {
+        "Station_Name": "Guna",
+        "Station_Code": "42559"
+    },
+    {
+        "Station_Name": "Satna",
+        "Station_Code": "42571"
+    },
+    {
+        "Station_Name": "Rewa",
+        "Station_Code": "42574"
+    },
+    {
+        "Station_Name": "Daltonganj",
+        "Station_Code": "42587"
+    },
+    {
+        "Station_Name": "Gaya",
+        "Station_Code": "42591"
+    },
+    {
+        "Station_Name": "Dumka",
+        "Station_Code": "42599"
+    },
+    {
+        "Station_Name": "Baharampur",
+        "Station_Code": "42603"
+    },
+    {
+        "Station_Name": "Kailashahar",
+        "Station_Code": "42618"
+    },
+    {
+        "Station_Name": "Silchar",
+        "Station_Code": "42619"
+    },
+    {
+        "Station_Name": "Imphal",
+        "Station_Code": "42623"
+    },
+    {
+        "Station_Name": "Naliya",
+        "Station_Code": "42631"
+    },
+    {
+        "Station_Name": "Bhuj",
+        "Station_Code": "42634"
+    },
+    {
+        "Station_Name": "Kandla",
+        "Station_Code": "42639"
+    },
+    {
+        "Station_Name": "Ahmedabad",
+        "Station_Code": "42647"
+    },
+    {
+        "Station_Name": "Gandhinagar",
+        "Station_Code": "42654"
+    },
+    {
+        "Station_Name": "Banswada",
+        "Station_Code": "42655"
+    },
+    {
+        "Station_Name": "Ujjain",
+        "Station_Code": "42662"
+    },
+    {
+        "Station_Name": "Bhopal-Arera Hills",
+        "Station_Code": "42667"
+    },
+    {
+        "Station_Name": "Sagar",
+        "Station_Code": "42671"
+    },
+    {
+        "Station_Name": "Jabalpur",
+        "Station_Code": "42675"
+    },
+    {
+        "Station_Name": "Umaria",
+        "Station_Code": "42679"
+    },
+    {
+        "Station_Name": "Ambikapur",
+        "Station_Code": "42693"
+    },
+    {
+        "Station_Name": "Ranchi",
+        "Station_Code": "42701"
+    },
+    {
+        "Station_Name": "Sriniketan",
+        "Station_Code": "42708"
+    },
+    {
+        "Station_Name": "Burdwan",
+        "Station_Code": "42709"
+    },
+    {
+        "Station_Name": "Krishnanagar",
+        "Station_Code": "42711"
+    },
+    {
+        "Station_Name": "Asansol",
+        "Station_Code": "42712"
+    },
+    {
+        "Station_Name": "Agartala",
+        "Station_Code": "42724"
+    },
+    {
+        "Station_Name": "Aizwal",
+        "Station_Code": "42726"
+    },
+    {
+        "Station_Name": "Aizwal-Lengpui",
+        "Station_Code": "42727"
+    },
+    {
+        "Station_Name": "Okha",
+        "Station_Code": "42730"
+    },
+    {
+        "Station_Name": "Dwarka",
+        "Station_Code": "42731"
+    },
+    {
+        "Station_Name": "Rajkot",
+        "Station_Code": "42737"
+    },
+    {
+        "Station_Name": "Baroda",
+        "Station_Code": "42748"
+    },
+    {
+        "Station_Name": "Dhar",
+        "Station_Code": "42752"
+    },
+    {
+        "Station_Name": "Indore",
+        "Station_Code": "42754"
+    },
+    {
+        "Station_Name": "Pachmarhi",
+        "Station_Code": "42767"
+    },
+    {
+        "Station_Name": "Seoni",
+        "Station_Code": "42771"
+    },
+    {
+        "Station_Name": "Mandla",
+        "Station_Code": "42776"
+    },
+    {
+        "Station_Name": "Pendra",
+        "Station_Code": "42779"
+    },
+    {
+        "Station_Name": "Bilaspur",
+        "Station_Code": "42782"
+    },
+    {
+        "Station_Name": "Chaibasa",
+        "Station_Code": "42795"
+    },
+    {
+        "Station_Name": "Jamshedpur",
+        "Station_Code": "42798"
+    },
+    {
+        "Station_Name": "Midnapore",
+        "Station_Code": "42803"
+    },
+    {
+        "Station_Name": "Kolkata-Howrah",
+        "Station_Code": "42805"
+    },
+    {
+        "Station_Name": "Kolkata-Alipore",
+        "Station_Code": "42807"
+    },
+    {
+        "Station_Name": "Kolkata-Dum Dum",
+        "Station_Code": "42809"
+    },
+    {
+        "Station_Name": "Diamond Harbour",
+        "Station_Code": "42811"
+    },
+    {
+        "Station_Name": "Kolkata-Salt Lake",
+        "Station_Code": "42816"
+    },
+    {
+        "Station_Name": "Porbandar",
+        "Station_Code": "42830"
+    },
+    {
+        "Station_Name": "Amreli",
+        "Station_Code": "42834"
+    },
+    {
+        "Station_Name": "Bhavnagar",
+        "Station_Code": "42838"
+    },
+    {
+        "Station_Name": "Surat",
+        "Station_Code": "42840"
+    },
+    {
+        "Station_Name": "Jalgaon",
+        "Station_Code": "42851"
+    },
+    {
+        "Station_Name": "Khandwa",
+        "Station_Code": "42855"
+    },
+    {
+        "Station_Name": "Betul",
+        "Station_Code": "42860"
+    },
+    {
+        "Station_Name": "Nagpur-Sonegaon Airport",
+        "Station_Code": "42867"
+    },
+    {
+        "Station_Name": "Gondia",
+        "Station_Code": "42871"
+    },
+    {
+        "Station_Name": "Raipur-Mana",
+        "Station_Code": "42872"
+    },
+    {
+        "Station_Name": "Raipur-Lalpur",
+        "Station_Code": "42874"
+    },
+    {
+        "Station_Name": "Durg",
+        "Station_Code": "42876"
+    },
+    {
+        "Station_Name": "Sambalpur",
+        "Station_Code": "42883"
+    },
+    {
+        "Station_Name": "Jharsuguda",
+        "Station_Code": "42886"
+    },
+    {
+        "Station_Name": "Keonjhargarh",
+        "Station_Code": "42891"
+    },
+    {
+        "Station_Name": "Balasore",
+        "Station_Code": "42895"
+    },
+    {
+        "Station_Name": "Digha",
+        "Station_Code": "42901"
+    },
+    {
+        "Station_Name": "Veraval",
+        "Station_Code": "42909"
+    },
+    {
+        "Station_Name": "Diu",
+        "Station_Code": "42914"
+    },
+    {
+        "Station_Name": "Daman",
+        "Station_Code": "42916"
+    },
+    {
+        "Station_Name": "Nasik",
+        "Station_Code": "42921"
+    },
+    {
+        "Station_Name": "Malegaon",
+        "Station_Code": "42925"
+    },
+    {
+        "Station_Name": "Buldhana",
+        "Station_Code": "42931"
+    },
+    {
+        "Station_Name": "Akola city",
+        "Station_Code": "42933"
+    },
+    {
+        "Station_Name": "Washim",
+        "Station_Code": "42935"
+    },
+    {
+        "Station_Name": "Amravati",
+        "Station_Code": "42937"
+    },
+    {
+        "Station_Name": "Wardha",
+        "Station_Code": "42939"
+    },
+    {
+        "Station_Name": "Yeotmal",
+        "Station_Code": "42943"
+    },
+    {
+        "Station_Name": "Brahmapuri",
+        "Station_Code": "42946"
+    },
+    {
+        "Station_Name": "Gadchiroli",
+        "Station_Code": "42947"
+    },
+    {
+        "Station_Name": "Rajnandgaon",
+        "Station_Code": "42948"
+    },
+    {
+        "Station_Name": "Titlagarh",
+        "Station_Code": "42961"
+    },
+    {
+        "Station_Name": "Angul",
+        "Station_Code": "42969"
+    },
+    {
+        "Station_Name": "Bhubneshwar-Cuttack",
+        "Station_Code": "42970"
+    },
+    {
+        "Station_Name": "Bhubneshwar-Airport",
+        "Station_Code": "42971"
+    },
+    {
+        "Station_Name": "Chandbali",
+        "Station_Code": "42973"
+    },
+    {
+        "Station_Name": "Paradip",
+        "Station_Code": "42976"
+    },
+    {
+        "Station_Name": "Dahanu",
+        "Station_Code": "43001"
+    },
+    {
+        "Station_Name": "Mumbai-Santacruz",
+        "Station_Code": "43003"
+    },
+    {
+        "Station_Name": "Ahmednagar",
+        "Station_Code": "43009"
+    },
+    {
+        "Station_Name": "Beed",
+        "Station_Code": "43011"
+    },
+    {
+        "Station_Name": "Aurangabad",
+        "Station_Code": "43014"
+    },
+    {
+        "Station_Name": "Parbhani",
+        "Station_Code": "43017"
+    },
+    {
+        "Station_Name": "Nanded",
+        "Station_Code": "43021"
+    },
+    {
+        "Station_Name": "Adilabad\r\n",
+        "Station_Code": "43025"
+    },
+    {
+        "Station_Name": "Chandrapur",
+        "Station_Code": "43029"
+    },
+    {
+        "Station_Name": "Jagdalpur",
+        "Station_Code": "43041"
+    },
+    {
+        "Station_Name": "Gopalpur",
+        "Station_Code": "43049"
+    },
+    {
+        "Station_Name": "Mumbai-Colaba",
+        "Station_Code": "43057"
+    },
+    {
+        "Station_Name": "Alibag",
+        "Station_Code": "43058"
+    },
+    {
+        "Station_Name": "Pune-Shivajinagar",
+        "Station_Code": "43063"
+    },
+    {
+        "Station_Name": "Pune-Lohegaon Airport",
+        "Station_Code": "43064"
+    },
+    {
+        "Station_Name": "Pune-Pashan",
+        "Station_Code": "43067"
+    },
+    {
+        "Station_Name": "Jeur",
+        "Station_Code": "43071"
+    },
+    {
+        "Station_Name": "Osmanabad",
+        "Station_Code": "43075"
+    },
+    {
+        "Station_Name": "Udgir",
+        "Station_Code": "43076"
+    },
+    {
+        "Station_Name": "Nizamabad",
+        "Station_Code": "43081"
+    },
+    {
+        "Station_Name": "Medak\r\n\r\n",
+        "Station_Code": "43083"
+    },
+    {
+        "Station_Name": "Ramagundam",
+        "Station_Code": "43086"
+    },
+    {
+        "Station_Name": "Hanamkonda",
+        "Station_Code": "43087"
+    },
+    {
+        "Station_Name": "Koraput",
+        "Station_Code": "43097"
+    },
+    {
+        "Station_Name": "Kalingapatnam",
+        "Station_Code": "43105"
+    },
+    {
+        "Station_Name": "Harnai",
+        "Station_Code": "43109"
+    },
+    {
+        "Station_Name": "Ratnagiri",
+        "Station_Code": "43110"
+    },
+    {
+        "Station_Name": "Mahabaleshwar",
+        "Station_Code": "43111"
+    },
+    {
+        "Station_Name": "Satara",
+        "Station_Code": "43113"
+    },
+    {
+        "Station_Name": "Sholapur",
+        "Station_Code": "43117"
+    },
+    {
+        "Station_Name": "Kalaburgi",
+        "Station_Code": "43121"
+    },
+    {
+        "Station_Name": "Bidar",
+        "Station_Code": "43125"
+    },
+    {
+        "Station_Name": "Hyderabad",
+        "Station_Code": "43128"
+    },
+    {
+        "Station_Name": "Nalgonda\r\n\r\n",
+        "Station_Code": "43133"
+    },
+    {
+        "Station_Name": "Bhadrachalam\r\n\r\n",
+        "Station_Code": "43136"
+    },
+    {
+        "Station_Name": "Khammam\r\n\r\n",
+        "Station_Code": "43137"
+    },
+    {
+        "Station_Name": "Tuni       ",
+        "Station_Code": "43147"
+    },
+    {
+        "Station_Name": "Visakhapatnam",
+        "Station_Code": "43150"
+    },
+    {
+        "Station_Name": "Kolhapur",
+        "Station_Code": "43157"
+    },
+    {
+        "Station_Name": "Sangli",
+        "Station_Code": "43158"
+    },
+    {
+        "Station_Name": "Vijayapura",
+        "Station_Code": "43161"
+    },
+    {
+        "Station_Name": "Mahabubnagar\r\n\r\n",
+        "Station_Code": "43168"
+    },
+    {
+        "Station_Name": "Raichur",
+        "Station_Code": "43169"
+    },
+    {
+        "Station_Name": "Amaravati-AP",
+        "Station_Code": "43176"
+    },
+    {
+        "Station_Name": "Amaravati-Gannavaram",
+        "Station_Code": "43181"
+    },
+    {
+        "Station_Name": "Machilipatnam",
+        "Station_Code": "43185"
+    },
+    {
+        "Station_Name": "Narasapur ",
+        "Station_Code": "43187"
+    },
+    {
+        "Station_Name": "Kakinada",
+        "Station_Code": "43189"
+    },
+    {
+        "Station_Name": "Vengurla",
+        "Station_Code": "43193"
+    },
+    {
+        "Station_Name": "Belagavi",
+        "Station_Code": "43198"
+    },
+    {
+        "Station_Name": "Dharwad",
+        "Station_Code": "43200"
+    },
+    {
+        "Station_Name": "Gadag",
+        "Station_Code": "43201"
+    },
+    {
+        "Station_Name": "Kurnool",
+        "Station_Code": "43213"
+    },
+    {
+        "Station_Name": "Bapatla   ",
+        "Station_Code": "43220"
+    },
+    {
+        "Station_Name": "Ongole",
+        "Station_Code": "43221"
+    },
+    {
+        "Station_Name": "Karwar",
+        "Station_Code": "43225"
+    },
+    {
+        "Station_Name": "Honnavar",
+        "Station_Code": "43226"
+    },
+    {
+        "Station_Name": "Chitradurga",
+        "Station_Code": "43233"
+    },
+    {
+        "Station_Name": "Anantapur",
+        "Station_Code": "43237"
+    },
+    {
+        "Station_Name": "Cuddappah",
+        "Station_Code": "43241"
+    },
+    {
+        "Station_Name": "Kavali    ",
+        "Station_Code": "43243"
+    },
+    {
+        "Station_Name": "Nellore",
+        "Station_Code": "43245"
+    },
+    {
+        "Station_Name": "Agumbe",
+        "Station_Code": "43257"
+    },
+    {
+        "Station_Name": "Agati",
+        "Station_Code": "43266"
+    },
+    {
+        "Station_Name": "Tirupathi",
+        "Station_Code": "43275"
+    },
+    {
+        "Station_Name": "Chennai-Nungambakkam",
+        "Station_Code": "43278"
+    },
+    {
+        "Station_Name": "Chennai- Meenambakkam",
+        "Station_Code": "43279"
+    },
+    {
+        "Station_Name": "Mangaluru",
+        "Station_Code": "43284"
+    },
+    {
+        "Station_Name": "Mandya",
+        "Station_Code": "43289"
+    },
+    {
+        "Station_Name": "Mysuru",
+        "Station_Code": "43291"
+    },
+    {
+        "Station_Name": "Bengaluru-City",
+        "Station_Code": "43295"
+    },
+    {
+        "Station_Name": "Bengaluru-HAL Airport",
+        "Station_Code": "43296"
+    },
+    {
+        "Station_Name": "Dharmapuri",
+        "Station_Code": "43301"
+    },
+    {
+        "Station_Name": "Vellore",
+        "Station_Code": "43303"
+    },
+    {
+        "Station_Name": "Maya Bandar",
+        "Station_Code": "43309"
+    },
+    {
+        "Station_Name": "Amini Divi",
+        "Station_Code": "43311"
+    },
+    {
+        "Station_Name": "kozhikode",
+        "Station_Code": "43314"
+    },
+    {
+        "Station_Name": "Kannur",
+        "Station_Code": "43315"
+    },
+    {
+        "Station_Name": "Coonoor",
+        "Station_Code": "43318"
+    },
+    {
+        "Station_Name": "Coimbatore",
+        "Station_Code": "43321"
+    },
+    {
+        "Station_Name": "Salem",
+        "Station_Code": "43325"
+    },
+    {
+        "Station_Name": "Pondicherry",
+        "Station_Code": "43328"
+    },
+    {
+        "Station_Name": "Port Blair",
+        "Station_Code": "43333"
+    },
+    {
+        "Station_Name": "Kodaikanal",
+        "Station_Code": "43339"
+    },
+    {
+        "Station_Name": "Yercaud",
+        "Station_Code": "43340"
+    },
+    {
+        "Station_Name": "Kochi",
+        "Station_Code": "43353"
+    },
+    {
+        "Station_Name": "Punalur",
+        "Station_Code": "43354"
+    },
+    {
+        "Station_Name": "Kottayam",
+        "Station_Code": "43355"
+    },
+    {
+        "Station_Name": "Madurai ",
+        "Station_Code": "43360"
+    },
+    {
+        "Station_Name": "Pamban",
+        "Station_Code": "43363"
+    },
+    {
+        "Station_Name": "Carnicobar",
+        "Station_Code": "43367"
+    },
+    {
+        "Station_Name": "Minicoy",
+        "Station_Code": "43369"
+    },
+    {
+        "Station_Name": "Thiruvananthapuram-City",
+        "Station_Code": "43371"
+    },
+    {
+        "Station_Name": "Thiruvananthapuram- Airport",
+        "Station_Code": "43372"
+    },
+    {
+        "Station_Name": "Palayankottai",
+        "Station_Code": "43376"
+    },
+    {
+        "Station_Name": "Kanyakumari",
+        "Station_Code": "43377"
+    },
+    {
+        "Station_Name": "Nancowrie",
+        "Station_Code": "43382"
+    },
+    {
+        "Station_Name": "Madhubani",
+        "Station_Code": "50001"
+    },
+    {
+        "Station_Name": "Nalanda",
+        "Station_Code": "50002"
+    },
+    {
+        "Station_Name": "Aurangabad",
+        "Station_Code": "50003"
+    },
+    {
+        "Station_Name": "Rajgir",
+        "Station_Code": "50004"
+    },
+    {
+        "Station_Name": "Mirpur",
+        "Station_Code": "88803"
+    },
+    {
+        "Station_Name": "Kasauli",
+        "Station_Code": "88814"
+    },
+    {
+        "Station_Name": "Spiti Valley",
+        "Station_Code": "88815"
+    },
+    {
+        "Station_Name": "Badami",
+        "Station_Code": "88820"
+    },
+    {
+        "Station_Name": "Gokarna",
+        "Station_Code": "88821"
+    },
+    {
+        "Station_Name": "Bishnupur",
+        "Station_Code": "88823"
+    },
+    {
+        "Station_Name": "Sunderban",
+        "Station_Code": "88824"
+    },
+    {
+        "Station_Name": "Kaziranga",
+        "Station_Code": "88825"
+    },
+    {
+        "Station_Name": "Nagaon",
+        "Station_Code": "88826"
+    },
+    {
+        "Station_Name": "Nalbari",
+        "Station_Code": "88827"
+    },
+    {
+        "Station_Name": "Lunglei",
+        "Station_Code": "88828"
+    },
+    {
+        "Station_Name": "Kausani",
+        "Station_Code": "88829"
+    },
+    {
+        "Station_Name": "Lansdowne",
+        "Station_Code": "88831"
+    },
+    {
+        "Station_Name": "Kargil",
+        "Station_Code": "88832"
+    },
+    {
+        "Station_Name": "Barkot",
+        "Station_Code": "90003"
+    },
+    {
+        "Station_Name": "Rudraprayag",
+        "Station_Code": "90015"
+    },
+    {
+        "Station_Name": "Srinagar Uttrakhand",
+        "Station_Code": "90017"
+    },
+    {
+        "Station_Name": "Kumarakom",
+        "Station_Code": "90059"
+    },
+    {
+        "Station_Name": "Vellanikara",
+        "Station_Code": "90061"
+    },
+    {
+        "Station_Name": "Chikkamagaluru",
+        "Station_Code": "90081"
+    },
+    {
+        "Station_Name": "Kodagu",
+        "Station_Code": "90082"
+    },
+    {
+        "Station_Name": "Travancore",
+        "Station_Code": "90083"
+    },
+    {
+        "Station_Name": "Nilliampathy",
+        "Station_Code": "90084"
+    },
+    {
+        "Station_Name": "Nilgiris",
+        "Station_Code": "90085"
+    },
+    {
+        "Station_Name": "Shevaroy",
+        "Station_Code": "90086"
+    },
+    {
+        "Station_Name": "Anaamalais",
+        "Station_Code": "90087"
+    },
+    {
+        "Station_Name": "Alluri Sitharamaraju",
+        "Station_Code": "90088"
+    },
+    {
+        "Station_Name": "Pusa",
+        "Station_Code": "90141"
+    },
+    {
+        "Station_Name": "Jafarpur",
+        "Station_Code": "90142"
+    },
+    {
+        "Station_Name": "Mungeshpur",
+        "Station_Code": "90143"
+    },
+    {
+        "Station_Name": "Najafgarh",
+        "Station_Code": "90144"
+    },
+    {
+        "Station_Name": "Pitampura",
+        "Station_Code": "90145"
+    },
+    {
+        "Station_Name": "Salwan Public School",
+        "Station_Code": "90146"
+    },
+    {
+        "Station_Name": "Khushinagar",
+        "Station_Code": "90188"
+    },
+    {
+        "Station_Name": "KALAVACHARLA",
+        "Station_Code": "99362"
+    },
+    {
+        "Station_Name": "VENKATARAMANNAGUDEM",
+        "Station_Code": "99363"
+    },
+    {
+        "Station_Name": "BANAVASI",
+        "Station_Code": "99364"
+    },
+    {
+        "Station_Name": "NELLORE_KVK",
+        "Station_Code": "99365"
+    },
+    {
+        "Station_Name": "GARIKAPADU",
+        "Station_Code": "99366"
+    },
+    {
+        "Station_Name": "VIZIANAGARAM",
+        "Station_Code": "99367"
+    },
+    {
+        "Station_Name": "DARSI",
+        "Station_Code": "99368"
+    },
+    {
+        "Station_Name": "AMADALAVALASA",
+        "Station_Code": "99369"
+    },
+    {
+        "Station_Name": "UTKURU",
+        "Station_Code": "99370"
+    },
+    {
+        "Station_Name": "NAMSAI",
+        "Station_Code": "99371"
+    },
+    {
+        "Station_Name": "KARSINGSA",
+        "Station_Code": "99372"
+    },
+    {
+        "Station_Name": "TAWANG CHAMGBU",
+        "Station_Code": "99373"
+    },
+    {
+        "Station_Name": "BAKSA",
+        "Station_Code": "99374"
+    },
+    {
+        "Station_Name": "BARPETA KVK",
+        "Station_Code": "99375"
+    },
+    {
+        "Station_Name": "CACHER",
+        "Station_Code": "99376"
+    },
+    {
+        "Station_Name": "MANGALDOI",
+        "Station_Code": "99377"
+    },
+    {
+        "Station_Name": "DHUBRI KVK",
+        "Station_Code": "99378"
+    },
+    {
+        "Station_Name": "DUDHNOI",
+        "Station_Code": "99379"
+    },
+    {
+        "Station_Name": "HAILAKANDI",
+        "Station_Code": "99380"
+    },
+    {
+        "Station_Name": "UDI",
+        "Station_Code": "99381"
+    },
+    {
+        "Station_Name": "ARARIA",
+        "Station_Code": "99382"
+    },
+    {
+        "Station_Name": "AURANGABAD BH KVK",
+        "Station_Code": "99383"
+    },
+    {
+        "Station_Name": "BANKA",
+        "Station_Code": "99384"
+    },
+    {
+        "Station_Name": "BEGUSARAI",
+        "Station_Code": "99385"
+    },
+    {
+        "Station_Name": "AGRICULTURE UNIVERSITY",
+        "Station_Code": "99386"
+    },
+    {
+        "Station_Name": "EAST CHAMPARAN",
+        "Station_Code": "99387"
+    },
+    {
+        "Station_Name": "JAMUI",
+        "Station_Code": "99388"
+    },
+    {
+        "Station_Name": "KATIHAR",
+        "Station_Code": "99389"
+    },
+    {
+        "Station_Name": "KHAGARIA",
+        "Station_Code": "99390"
+    },
+    {
+        "Station_Name": "SARAIYA",
+        "Station_Code": "99391"
+    },
+    {
+        "Station_Name": "NAWADA",
+        "Station_Code": "99392"
+    },
+    {
+        "Station_Name": "PURNEA KVK",
+        "Station_Code": "99393"
+    },
+    {
+        "Station_Name": "SHEIKPURA",
+        "Station_Code": "99394"
+    },
+    {
+        "Station_Name": "SITAMARHI KVK",
+        "Station_Code": "99395"
+    },
+    {
+        "Station_Name": "BIJAPUR",
+        "Station_Code": "99396"
+    },
+    {
+        "Station_Name": "DANTEWADA",
+        "Station_Code": "99397"
+    },
+    {
+        "Station_Name": "DUMARBAHAR",
+        "Station_Code": "99398"
+    },
+    {
+        "Station_Name": "KANKER",
+        "Station_Code": "99399"
+    },
+    {
+        "Station_Name": "LAKHANPUR",
+        "Station_Code": "99400"
+    },
+    {
+        "Station_Name": "KORIYA",
+        "Station_Code": "99401"
+    },
+    {
+        "Station_Name": "MAHASAMUND",
+        "Station_Code": "99402"
+    },
+    {
+        "Station_Name": "NARAYANPUR",
+        "Station_Code": "99403"
+    },
+    {
+        "Station_Name": "RAJNANDAGAON KVK",
+        "Station_Code": "99404"
+    },
+    {
+        "Station_Name": "AMRELI KVK",
+        "Station_Code": "99408"
+    },
+    {
+        "Station_Name": "DAHOD",
+        "Station_Code": "99410"
+    },
+    {
+        "Station_Name": "DANG",
+        "Station_Code": "99411"
+    },
+    {
+        "Station_Name": "JAMNAGAR",
+        "Station_Code": "99412"
+    },
+    {
+        "Station_Name": "NARMADA",
+        "Station_Code": "99413"
+    },
+    {
+        "Station_Name": "SURAT KVK",
+        "Station_Code": "99415"
+    },
+    {
+        "Station_Name": "VALSAD",
+        "Station_Code": "99416"
+    },
+    {
+        "Station_Name": "BOKARO KVK",
+        "Station_Code": "99431"
+    },
+    {
+        "Station_Name": "CHATRA",
+        "Station_Code": "99432"
+    },
+    {
+        "Station_Name": "SUJANI",
+        "Station_Code": "99433"
+    },
+    {
+        "Station_Name": "GARHWA KVK",
+        "Station_Code": "99434"
+    },
+    {
+        "Station_Name": "GIRIDIH BENGABAD",
+        "Station_Code": "99435"
+    },
+    {
+        "Station_Name": "GODDA",
+        "Station_Code": "99436"
+    },
+    {
+        "Station_Name": "GUMLA BISHNUPUR",
+        "Station_Code": "99437"
+    },
+    {
+        "Station_Name": "HAZARIBAG KVK",
+        "Station_Code": "99438"
+    },
+    {
+        "Station_Name": "DIYAKEL KHUNTI",
+        "Station_Code": "99439"
+    },
+    {
+        "Station_Name": "LATEHAR BALUMATH",
+        "Station_Code": "99440"
+    },
+    {
+        "Station_Name": "LOHARDAGA KVK",
+        "Station_Code": "99441"
+    },
+    {
+        "Station_Name": "PAKUR KVK",
+        "Station_Code": "99442"
+    },
+    {
+        "Station_Name": "PALAMU DALTONGUNJ",
+        "Station_Code": "99443"
+    },
+    {
+        "Station_Name": "RAMGARH KVK",
+        "Station_Code": "99444"
+    },
+    {
+        "Station_Name": "SAHIBGANJ KVK",
+        "Station_Code": "99445"
+    },
+    {
+        "Station_Name": "BANO SIMDEGA",
+        "Station_Code": "99446"
+    },
+    {
+        "Station_Name": "JAGANNATHPUR BAU",
+        "Station_Code": "99447"
+    },
+    {
+        "Station_Name": "BAGALKOT",
+        "Station_Code": "99448"
+    },
+    {
+        "Station_Name": "MUDIGERE",
+        "Station_Code": "99451"
+    },
+    {
+        "Station_Name": "GANGAVATHI",
+        "Station_Code": "99455"
+    },
+    {
+        "Station_Name": "MANDYA KVK",
+        "Station_Code": "99456"
+    },
+    {
+        "Station_Name": "KOTTARAKKARA",
+        "Station_Code": "99460"
+    },
+    {
+        "Station_Name": "THAVANUR",
+        "Station_Code": "99461"
+    },
+    {
+        "Station_Name": "PATTAMBI",
+        "Station_Code": "99462"
+    },
+    {
+        "Station_Name": "AURANGABAD MH KVK",
+        "Station_Code": "99478"
+    },
+    {
+        "Station_Name": "NANDURBAR KVK",
+        "Station_Code": "99483"
+    },
+    {
+        "Station_Name": "TULGA",
+        "Station_Code": "99484"
+    },
+    {
+        "Station_Name": "PALGHAR",
+        "Station_Code": "99485"
+    },
+    {
+        "Station_Name": "MOHOL",
+        "Station_Code": "99486"
+    },
+    {
+        "Station_Name": "CHANDEL",
+        "Station_Code": "99488"
+    },
+    {
+        "Station_Name": "TURA",
+        "Station_Code": "99489"
+    },
+    {
+        "Station_Name": "NONGSTOIN",
+        "Station_Code": "99490"
+    },
+    {
+        "Station_Name": "MOKOKCHUNG KVK",
+        "Station_Code": "99492"
+    },
+    {
+        "Station_Name": "ZUNHEBOTO KVK",
+        "Station_Code": "99493"
+    },
+    {
+        "Station_Name": "PUDUCHERRY KVK",
+        "Station_Code": "99504"
+    },
+    {
+        "Station_Name": "ANTA BARAN",
+        "Station_Code": "99510"
+    },
+    {
+        "Station_Name": "DUNGARPUR KVK",
+        "Station_Code": "99513"
+    },
+    {
+        "Station_Name": "KARAULI",
+        "Station_Code": "99517"
+    },
+    {
+        "Station_Name": "SIROHI",
+        "Station_Code": "99518"
+    },
+    {
+        "Station_Name": "VIRDHACHALAM",
+        "Station_Code": "99521"
+    },
+    {
+        "Station_Name": "VAMBAN",
+        "Station_Code": "99524"
+    },
+    {
+        "Station_Name": "RAMNADU",
+        "Station_Code": "99525"
+    },
+    {
+        "Station_Name": "SANDHIYUR",
+        "Station_Code": "99526"
+    },
+    {
+        "Station_Name": "SIRUGAMANI",
+        "Station_Code": "99527"
+    },
+    {
+        "Station_Name": "VIRINJIPURAM",
+        "Station_Code": "99529"
+    },
+    {
+        "Station_Name": "ARUPPUKOTTAI",
+        "Station_Code": "99530"
+    },
+    {
+        "Station_Name": "ADILABAD KVK",
+        "Station_Code": "99531"
+    },
+    {
+        "Station_Name": "WYRA",
+        "Station_Code": "99532"
+    },
+    {
+        "Station_Name": "MALYAL",
+        "Station_Code": "99533"
+    },
+    {
+        "Station_Name": "KAMPASAGAR",
+        "Station_Code": "99534"
+    },
+    {
+        "Station_Name": "AGARTALA KVK",
+        "Station_Code": "99535"
+    },
+    {
+        "Station_Name": "MATELA",
+        "Station_Code": "99536"
+    },
+    {
+        "Station_Name": "NAINITAL JEOLIKOT",
+        "Station_Code": "99537"
+    },
+    {
+        "Station_Name": "AZAMGARH",
+        "Station_Code": "99539"
+    },
+    {
+        "Station_Name": "BAGHPAT",
+        "Station_Code": "99540"
+    },
+    {
+        "Station_Name": "MOTIPUR HARHWA",
+        "Station_Code": "99541"
+    },
+    {
+        "Station_Name": "BHADOHI",
+        "Station_Code": "99542"
+    },
+    {
+        "Station_Name": "BULANDSHAHAR KVK",
+        "Station_Code": "99543"
+    },
+    {
+        "Station_Name": "CHANDAULI KVK",
+        "Station_Code": "99544"
+    },
+    {
+        "Station_Name": "CHITRAKOOT KVK",
+        "Station_Code": "99545"
+    },
+    {
+        "Station_Name": "FATEHPUR KVK",
+        "Station_Code": "99546"
+    },
+    {
+        "Station_Name": "GHAZIPUR",
+        "Station_Code": "99547"
+    },
+    {
+        "Station_Name": "GORAKHPUR KVK",
+        "Station_Code": "99548"
+    },
+    {
+        "Station_Name": "JAUNPUR KVK",
+        "Station_Code": "99549"
+    },
+    {
+        "Station_Name": "KANNAUJ ANAUGHI",
+        "Station_Code": "99550"
+    },
+    {
+        "Station_Name": "KUSHINAGAR KVK",
+        "Station_Code": "99551"
+    },
+    {
+        "Station_Name": "MAINPURI KVK",
+        "Station_Code": "99552"
+    },
+    {
+        "Station_Name": "NIYAMATPUR",
+        "Station_Code": "99553"
+    },
+    {
+        "Station_Name": "MOHANA",
+        "Station_Code": "99554"
+    },
+    {
+        "Station_Name": "TISSUHI",
+        "Station_Code": "99555"
+    },
+    {
+        "Station_Name": "SANTINIKETAN BOLPUR",
+        "Station_Code": "99556"
+    },
+    {
+        "Station_Name": "RAMSHAI",
+        "Station_Code": "99557"
+    },
+    {
+        "Station_Name": "RATUA",
+        "Station_Code": "99558"
+    },
+    {
+        "Station_Name": "MURSHIDABAD",
+        "Station_Code": "99559"
+    },
+    {
+        "Station_Name": "ASHOKNAGAR",
+        "Station_Code": "99560"
+    },
+    {
+        "Station_Name": "PURULIA",
+        "Station_Code": "99561"
+    },
+    {
+        "Station_Name": "Pithoragarh",
+        "Station_Code": "99911"
+    },
+    {
+        "Station_Name": "Almora",
+        "Station_Code": "99912"
+    },
+    {
+        "Station_Name": "Kurukshetra",
+        "Station_Code": "99915"
+    },
+    {
+        "Station_Name": "Sirsa",
+        "Station_Code": "99916"
+    },
+    {
+        "Station_Name": "Anandpur Sahib",
+        "Station_Code": "99917"
+    },
+    {
+        "Station_Name": "Haridwar",
+        "Station_Code": "99918"
+    },
+    {
+        "Station_Name": "Hanumangarh",
+        "Station_Code": "99919"
+    },
+    {
+        "Station_Name": "Pali",
+        "Station_Code": "99920"
+    },
+    {
+        "Station_Name": "New Delhi-Delhi University",
+        "Station_Code": "99921"
+    },
+    {
+        "Station_Name": "New Delhi-Narela",
+        "Station_Code": "99922"
+    },
+    {
+        "Station_Name": "New Delhi-Lodi Road",
+        "Station_Code": "99923"
+    },
+    {
+        "Station_Name": "Warangal",
+        "Station_Code": "99925"
+    },
+    {
+        "Station_Name": "Gautam Budhnagar",
+        "Station_Code": "99926"
+    },
+    {
+        "Station_Name": "Ghaziabad",
+        "Station_Code": "99927"
+    },
+    {
+        "Station_Name": "Chandigarh- Airport",
+        "Station_Code": "99928"
+    },
+    {
+        "Station_Name": "Chandigarh Airport",
+        "Station_Code": "99928"
+    },
+    {
+        "Station_Name": "Chandigarh-Panchkula",
+        "Station_Code": "99929"
+    },
+    {
+        "Station_Name": "Chandigarh-Mohali",
+        "Station_Code": "99930"
+    },
+    {
+        "Station_Name": "Hyderabad-Rajinder Nagar",
+        "Station_Code": "99931"
+    },
+    {
+        "Station_Name": "Hyderabad-Hayathnagar",
+        "Station_Code": "99932"
+    },
+    {
+        "Station_Name": "Hyderabad-Hakimpet",
+        "Station_Code": "99933"
+    },
+    {
+        "Station_Name": "Hyderabad-Icrisat Patancheru",
+        "Station_Code": "99934"
+    },
+    {
+        "Station_Name": "Ahmedabad-Airport",
+        "Station_Code": "99935"
+    },
+    {
+        "Station_Name": "Ahmedabad-Navrangpura (S.P.Stadium)",
+        "Station_Code": "99936"
+    },
+    {
+        "Station_Name": "Ahmedabad-Chandkheda",
+        "Station_Code": "99938"
+    },
+    {
+        "Station_Name": "Navi Mumbai (Panvel)",
+        "Station_Code": "99940"
+    },
+    {
+        "Station_Name": "Mumbai-Borivali",
+        "Station_Code": "99941"
+    },
+    {
+        "Station_Name": "Mumbai-Powai",
+        "Station_Code": "99942"
+    },
+    {
+        "Station_Name": "Mumbai-Chembur",
+        "Station_Code": "99943"
+    },
+    {
+        "Station_Name": "Mumbai-Mulund",
+        "Station_Code": "99944"
+    },
+    {
+        "Station_Name": "Mumbai-Worli",
+        "Station_Code": "99945"
+    },
+    {
+        "Station_Name": "Ranchi-Kanke",
+        "Station_Code": "99950"
+    },
+    {
+        "Station_Name": "Dehradun-UCOST",
+        "Station_Code": "99955"
+    },
+    {
+        "Station_Name": "Ahmedabad-Ambli-Bopal",
+        "Station_Code": "99956"
+    },
+    {
+        "Station_Name": "Ahmedabad-Pirana",
+        "Station_Code": "99958"
+    },
+    {
+        "Station_Name": "Ahmedabad-IIPH,Gandhi Nagar",
+        "Station_Code": "99959"
+    },
+    {
+        "Station_Name": "Ahmedabad-Gift City, Gandhi Nagar",
+        "Station_Code": "99960"
+    },
+    {
+        "Station_Name": "Bengaluru-International Airport",
+        "Station_Code": "99962"
+    },
+    {
+        "Station_Name": "Bengaluru-GKVK",
+        "Station_Code": "99963"
+    },
+    {
+        "Station_Name": "Lucknow-Hanuman Setu",
+        "Station_Code": "99970"
+    },
+    {
+        "Station_Name": "Lucknow-Control Room",
+        "Station_Code": "99971"
+    },
+    {
+        "Station_Name": "Lucknow-Malihabad",
+        "Station_Code": "99972"
+    },
+    {
+        "Station_Name": "Lucknow-Mohanlalganj",
+        "Station_Code": "99973"
+    },
+    {
+        "Station_Name": "Raipur-Labhandi",
+        "Station_Code": "99974"
+    },
+    {
+        "Station_Name": "Bhopal-Airport",
+        "Station_Code": "99977"
+    },
+    {
+        "Station_Name": "Guwahati-Dispur",
+        "Station_Code": "99979"
+    },
+    {
+        "Station_Name": "Patna-City",
+        "Station_Code": "99986"
+    },
+    {
+        "Station_Name": "Guwahati-IIT Guwahati",
+        "Station_Code": "99987"
+    },
+    {
+        "Station_Name": "Gilgit",
+        "Station_Code": "99990"
+    },
+    {
+        "Station_Name": "Skardu",
+        "Station_Code": "99991"
+    },
+    {
+        "Station_Name": "Muzaffarabad",
+        "Station_Code": "99996"
+    },
+    {
+        "Station_Name": "Dindigul IAF\r\n\r\n\r\n",
+        "Station_Code": "99997"
+    },
+    {
+        "Station_Name": "CHAKULIA",
+        "Station_Code": "100001"
+    },
+    {
+        "Station_Name": "DHANBAD",
+        "Station_Code": "100002"
+    },
+    {
+        "Station_Name": "GARHWA",
+        "Station_Code": "100003"
+    },
+    {
+        "Station_Name": "GUMLA",
+        "Station_Code": "100004"
+    },
+    {
+        "Station_Name": "HAZARIBAGH",
+        "Station_Code": "100005"
+    },
+    {
+        "Station_Name": "KODERMA",
+        "Station_Code": "100006"
+    },
+    {
+        "Station_Name": "LOHARDAGA",
+        "Station_Code": "100007"
+    },
+    {
+        "Station_Name": "PAKUR",
+        "Station_Code": "100008"
+    },
+    {
+        "Station_Name": "Ramgarh",
+        "Station_Code": "100009"
+    },
+    {
+        "Station_Name": "SAHEBGANJ",
+        "Station_Code": "100010"
+    },
+    {
+        "Station_Name": "SIMDEGA",
+        "Station_Code": "100011"
+    },
+    {
+        "Station_Name": "APMC CHINCHOLI",
+        "Station_Code": "100012"
+    },
+    {
+        "Station_Name": "AABU ROAD",
+        "Station_Code": "100013"
+    },
+    {
+        "Station_Name": "ANOOPGARH",
+        "Station_Code": "100014"
+    },
+    {
+        "Station_Name": "ANTA",
+        "Station_Code": "100015"
+    },
+    {
+        "Station_Name": "ATRU",
+        "Station_Code": "100016"
+    },
+    {
+        "Station_Name": "BAJJU",
+        "Station_Code": "100017"
+    },
+    {
+        "Station_Name": "BALOTRA",
+        "Station_Code": "100018"
+    },
+    {
+        "Station_Name": "BANDIKUI",
+        "Station_Code": "100019"
+    },
+    {
+        "Station_Name": "BARAN",
+        "Station_Code": "100020"
+    },
+    {
+        "Station_Name": "BARISADRI",
+        "Station_Code": "100021"
+    },
+    {
+        "Station_Name": "BARODAMEV",
+        "Station_Code": "100022"
+    },
+    {
+        "Station_Name": "BASSI",
+        "Station_Code": "100023"
+    },
+    {
+        "Station_Name": "BAYANA",
+        "Station_Code": "100024"
+    },
+    {
+        "Station_Name": "BEAWAR",
+        "Station_Code": "100025"
+    },
+    {
+        "Station_Name": "BEGU",
+        "Station_Code": "100026"
+    },
+    {
+        "Station_Name": "BHADRA",
+        "Station_Code": "100027"
+    },
+    {
+        "Station_Name": "BHAWANI MANDI",
+        "Station_Code": "100028"
+    },
+    {
+        "Station_Name": "BHINMAL",
+        "Station_Code": "100029"
+    },
+    {
+        "Station_Name": "BIJAY NAGAR",
+        "Station_Code": "100030"
+    },
+    {
+        "Station_Name": "BIJOLIYA",
+        "Station_Code": "100031"
+    },
+    {
+        "Station_Name": "BILARA",
+        "Station_Code": "100032"
+    },
+    {
+        "Station_Name": "CHABRA",
+        "Station_Code": "100033"
+    },
+    {
+        "Station_Name": "CHAKSU",
+        "Station_Code": "100034"
+    },
+    {
+        "Station_Name": "CHIRAWA",
+        "Station_Code": "100035"
+    },
+    {
+        "Station_Name": "CHOMEHLA",
+        "Station_Code": "100036"
+    },
+    {
+        "Station_Name": "CHOMU F AND V",
+        "Station_Code": "100037"
+    },
+    {
+        "Station_Name": "CHOMU GRAIN",
+        "Station_Code": "100038"
+    },
+    {
+        "Station_Name": "CHOTTISADRI",
+        "Station_Code": "100039"
+    },
+    {
+        "Station_Name": "DAUSA",
+        "Station_Code": "100040"
+    },
+    {
+        "Station_Name": "DEEDWANA",
+        "Station_Code": "100041"
+    },
+    {
+        "Station_Name": "DEEG",
+        "Station_Code": "100042"
+    },
+    {
+        "Station_Name": "DEGANA",
+        "Station_Code": "100043"
+    },
+    {
+        "Station_Name": "DEI",
+        "Station_Code": "100044"
+    },
+    {
+        "Station_Name": "DEOLI",
+        "Station_Code": "100045"
+    },
+    {
+        "Station_Name": "DOONI",
+        "Station_Code": "100046"
+    },
+    {
+        "Station_Name": "DUNGARPUR",
+        "Station_Code": "100047"
+    },
+    {
+        "Station_Name": "FATEHNAGAR",
+        "Station_Code": "100048"
+    },
+    {
+        "Station_Name": "FATEHPUR",
+        "Station_Code": "100049"
+    },
+    {
+        "Station_Name": "GAJSINGHPUR",
+        "Station_Code": "100050"
+    },
+    {
+        "Station_Name": "GANGAPUR CITY",
+        "Station_Code": "100051"
+    },
+    {
+        "Station_Name": "GANGAPUR-RJ",
+        "Station_Code": "100052"
+    },
+    {
+        "Station_Name": "GHARSANA",
+        "Station_Code": "100053"
+    },
+    {
+        "Station_Name": "GOLUWALA",
+        "Station_Code": "100054"
+    },
+    {
+        "Station_Name": "GUDA GODJI",
+        "Station_Code": "100055"
+    },
+    {
+        "Station_Name": "HINDOUN",
+        "Station_Code": "100056"
+    },
+    {
+        "Station_Name": "IKLERA",
+        "Station_Code": "100057"
+    },
+    {
+        "Station_Name": "ITAWA",
+        "Station_Code": "100058"
+    },
+    {
+        "Station_Name": "JAITARAN",
+        "Station_Code": "100059"
+    },
+    {
+        "Station_Name": "JAITSAR",
+        "Station_Code": "100060"
+    },
+    {
+        "Station_Name": "JHUNJHUNU",
+        "Station_Code": "100061"
+    },
+    {
+        "Station_Name": "KAMAN",
+        "Station_Code": "100062"
+    },
+    {
+        "Station_Name": "KAPASAN",
+        "Station_Code": "100063"
+    },
+    {
+        "Station_Name": "KEKRI",
+        "Station_Code": "100064"
+    },
+    {
+        "Station_Name": "KESHORAIPATAN",
+        "Station_Code": "100065"
+    },
+    {
+        "Station_Name": "KESRISINGHPUR",
+        "Station_Code": "100066"
+    },
+    {
+        "Station_Name": "KHAIRTHAL",
+        "Station_Code": "100067"
+    },
+    {
+        "Station_Name": "KHAJUWALA",
+        "Station_Code": "100068"
+    },
+    {
+        "Station_Name": "KHANPUR",
+        "Station_Code": "100069"
+    },
+    {
+        "Station_Name": "KHERLI",
+        "Station_Code": "100070"
+    },
+    {
+        "Station_Name": "KISHANGARH RENWAL",
+        "Station_Code": "100071"
+    },
+    {
+        "Station_Name": "KOTPUTLI",
+        "Station_Code": "100072"
+    },
+    {
+        "Station_Name": "KUCHAMANCITY",
+        "Station_Code": "100073"
+    },
+    {
+        "Station_Name": "LALSOT",
+        "Station_Code": "100074"
+    },
+    {
+        "Station_Name": "LOONKARANSAR",
+        "Station_Code": "100075"
+    },
+    {
+        "Station_Name": "M. KISHANGARH",
+        "Station_Code": "100076"
+    },
+    {
+        "Station_Name": "MAHUWA MANDAWAR",
+        "Station_Code": "100077"
+    },
+    {
+        "Station_Name": "MAHUWA RJ",
+        "Station_Code": "100078"
+    },
+    {
+        "Station_Name": "MALPURA",
+        "Station_Code": "100079"
+    },
+    {
+        "Station_Name": "MANDALGARH",
+        "Station_Code": "100080"
+    },
+    {
+        "Station_Name": "MANDAWARI",
+        "Station_Code": "100081"
+    },
+    {
+        "Station_Name": "MERTA CITY",
+        "Station_Code": "100082"
+    },
+    {
+        "Station_Name": "NADBAI",
+        "Station_Code": "100083"
+    },
+    {
+        "Station_Name": "NAGAR",
+        "Station_Code": "100084"
+    },
+    {
+        "Station_Name": "NAWALGARH",
+        "Station_Code": "100085"
+    },
+    {
+        "Station_Name": "NEEM KA THANA",
+        "Station_Code": "100086"
+    },
+    {
+        "Station_Name": "NIMBAHERA",
+        "Station_Code": "100087"
+    },
+    {
+        "Station_Name": "NIWAI",
+        "Station_Code": "100088"
+    },
+    {
+        "Station_Name": "NOHAR",
+        "Station_Code": "100089"
+    },
+    {
+        "Station_Name": "NOKHA",
+        "Station_Code": "100090"
+    },
+    {
+        "Station_Name": "PADAMPUR",
+        "Station_Code": "100091"
+    },
+    {
+        "Station_Name": "PALSANA",
+        "Station_Code": "100092"
+    },
+    {
+        "Station_Name": "PILIBANGA",
+        "Station_Code": "100094"
+    },
+    {
+        "Station_Name": "PIPARCITY",
+        "Station_Code": "100095"
+    },
+    {
+        "Station_Name": "PRATAPGARH RJ",
+        "Station_Code": "100096"
+    },
+    {
+        "Station_Name": "RAISINGHNAGAR",
+        "Station_Code": "100097"
+    },
+    {
+        "Station_Name": "RAJDHANI MANDI KUKARKHERA",
+        "Station_Code": "100098"
+    },
+    {
+        "Station_Name": "RAMGANJ MANDI",
+        "Station_Code": "100099"
+    },
+    {
+        "Station_Name": "RANI",
+        "Station_Code": "100100"
+    },
+    {
+        "Station_Name": "RANIWARA",
+        "Station_Code": "100101"
+    },
+    {
+        "Station_Name": "RATANGARH",
+        "Station_Code": "100102"
+    },
+    {
+        "Station_Name": "RAWATSAR",
+        "Station_Code": "100103"
+    },
+    {
+        "Station_Name": "RAWLA",
+        "Station_Code": "100104"
+    },
+    {
+        "Station_Name": "SADULPUR",
+        "Station_Code": "100105"
+    },
+    {
+        "Station_Name": "SADULSHAHAR",
+        "Station_Code": "100106"
+    },
+    {
+        "Station_Name": "SANCHORE",
+        "Station_Code": "100107"
+    },
+    {
+        "Station_Name": "SANGARIYA",
+        "Station_Code": "100108"
+    },
+    {
+        "Station_Name": "SARDAR SHAHAR",
+        "Station_Code": "100109"
+    },
+    {
+        "Station_Name": "SHAHPURA",
+        "Station_Code": "100110"
+    },
+    {
+        "Station_Name": "SOJAT ROAD",
+        "Station_Code": "100111"
+    },
+    {
+        "Station_Name": "SRI DUNGARGARH",
+        "Station_Code": "100112"
+    },
+    {
+        "Station_Name": "SRI MADHOPUR",
+        "Station_Code": "100113"
+    },
+    {
+        "Station_Name": "SRI VIJAYNAGAR",
+        "Station_Code": "100114"
+    },
+    {
+        "Station_Name": "SRIGANGANAGAR F AND V",
+        "Station_Code": "100115"
+    },
+    {
+        "Station_Name": "SRIKARANPUR",
+        "Station_Code": "100116"
+    },
+    {
+        "Station_Name": "SUJANGARH",
+        "Station_Code": "100117"
+    },
+    {
+        "Station_Name": "SUMERGANJ",
+        "Station_Code": "100118"
+    },
+    {
+        "Station_Name": "SUMERPUR",
+        "Station_Code": "100119"
+    },
+    {
+        "Station_Name": "SURAJGARH",
+        "Station_Code": "100120"
+    },
+    {
+        "Station_Name": "SURATGARH",
+        "Station_Code": "100121"
+    },
+    {
+        "Station_Name": "UNIYARA",
+        "Station_Code": "100122"
+    },
+    {
+        "Station_Name": "ACHHALDA APMC",
+        "Station_Code": "100123"
+    },
+    {
+        "Station_Name": "ACHNERA",
+        "Station_Code": "100124"
+    },
+    {
+        "Station_Name": "AJUHA",
+        "Station_Code": "100125"
+    },
+    {
+        "Station_Name": "AKBARPUR",
+        "Station_Code": "100126"
+    },
+    {
+        "Station_Name": "ANAND NAGAR APMC",
+        "Station_Code": "100127"
+    },
+    {
+        "Station_Name": "ATARRA APMC",
+        "Station_Code": "100128"
+    },
+    {
+        "Station_Name": "AURAIYA",
+        "Station_Code": "100129"
+    },
+    {
+        "Station_Name": "BADAUN",
+        "Station_Code": "100130"
+    },
+    {
+        "Station_Name": "BALRAMPUR APMC",
+        "Station_Code": "100131"
+    },
+    {
+        "Station_Name": "BANGARMAU",
+        "Station_Code": "100132"
+    },
+    {
+        "Station_Name": "BASTI",
+        "Station_Code": "100133"
+    },
+    {
+        "Station_Name": "BHARTHANA",
+        "Station_Code": "100134"
+    },
+    {
+        "Station_Name": "BHARUASUMERPUR",
+        "Station_Code": "100135"
+    },
+    {
+        "Station_Name": "BILSI",
+        "Station_Code": "100136"
+    },
+    {
+        "Station_Name": "BINDIKI",
+        "Station_Code": "100137"
+    },
+    {
+        "Station_Name": "BISALPUR",
+        "Station_Code": "100138"
+    },
+    {
+        "Station_Name": "BULANDSHAHAR",
+        "Station_Code": "100139"
+    },
+    {
+        "Station_Name": "CHANDAULI",
+        "Station_Code": "100140"
+    },
+    {
+        "Station_Name": "CHANDAUSI",
+        "Station_Code": "100141"
+    },
+    {
+        "Station_Name": "CHARRA",
+        "Station_Code": "100142"
+    },
+    {
+        "Station_Name": "CHAUBEPUR",
+        "Station_Code": "100143"
+    },
+    {
+        "Station_Name": "CHIBRAMAU",
+        "Station_Code": "100144"
+    },
+    {
+        "Station_Name": "DADRI UP",
+        "Station_Code": "100145"
+    },
+    {
+        "Station_Name": "DEORIA",
+        "Station_Code": "100146"
+    },
+    {
+        "Station_Name": "ETAH",
+        "Station_Code": "100147"
+    },
+    {
+        "Station_Name": "FARRUKHABAD",
+        "Station_Code": "100148"
+    },
+    {
+        "Station_Name": "FATEHPUR APMC",
+        "Station_Code": "100149"
+    },
+    {
+        "Station_Name": "FATEHPUR SIKRI",
+        "Station_Code": "100150"
+    },
+    {
+        "Station_Name": "FIROZABAD APMC",
+        "Station_Code": "100151"
+    },
+    {
+        "Station_Name": "GHIROR",
+        "Station_Code": "100152"
+    },
+    {
+        "Station_Name": "GOLAGOKARNATH",
+        "Station_Code": "100153"
+    },
+    {
+        "Station_Name": "HAPUR",
+        "Station_Code": "100154"
+    },
+    {
+        "Station_Name": "HASANPUR APMC",
+        "Station_Code": "100155"
+    },
+    {
+        "Station_Name": "HATHRAS",
+        "Station_Code": "100156"
+    },
+    {
+        "Station_Name": "JAIS",
+        "Station_Code": "100157"
+    },
+    {
+        "Station_Name": "JALALABAD APMC",
+        "Station_Code": "100158"
+    },
+    {
+        "Station_Name": "JALAUN",
+        "Station_Code": "100159"
+    },
+    {
+        "Station_Name": "JANGIPURA",
+        "Station_Code": "100160"
+    },
+    {
+        "Station_Name": "JAUNPUR APMC",
+        "Station_Code": "100161"
+    },
+    {
+        "Station_Name": "KAIMGANJ",
+        "Station_Code": "100162"
+    },
+    {
+        "Station_Name": "KANNAUJ",
+        "Station_Code": "100163"
+    },
+    {
+        "Station_Name": "KARWI APMC",
+        "Station_Code": "100164"
+    },
+    {
+        "Station_Name": "KASGANJ",
+        "Station_Code": "100165"
+    },
+    {
+        "Station_Name": "KHAIR",
+        "Station_Code": "100166"
+    },
+    {
+        "Station_Name": "KHALILABAD",
+        "Station_Code": "100167"
+    },
+    {
+        "Station_Name": "KHURJA",
+        "Station_Code": "100168"
+    },
+    {
+        "Station_Name": "KONCH",
+        "Station_Code": "100169"
+    },
+    {
+        "Station_Name": "KOSIKALAN",
+        "Station_Code": "100170"
+    },
+    {
+        "Station_Name": "LALITPUR",
+        "Station_Code": "100171"
+    },
+    {
+        "Station_Name": "MADHOGANJ",
+        "Station_Code": "100172"
+    },
+    {
+        "Station_Name": "MAHMUDABAD",
+        "Station_Code": "100173"
+    },
+    {
+        "Station_Name": "MAHOBA",
+        "Station_Code": "100174"
+    },
+    {
+        "Station_Name": "MAURANIPUR",
+        "Station_Code": "100175"
+    },
+    {
+        "Station_Name": "MILAK",
+        "Station_Code": "100176"
+    },
+    {
+        "Station_Name": "MIRZAPUR",
+        "Station_Code": "100177"
+    },
+    {
+        "Station_Name": "MUSKERA",
+        "Station_Code": "100178"
+    },
+    {
+        "Station_Name": "NAANPARA",
+        "Station_Code": "100179"
+    },
+    {
+        "Station_Name": "NAJIBABAD APMC",
+        "Station_Code": "100180"
+    },
+    {
+        "Station_Name": "NAUGARH APMC",
+        "Station_Code": "100181"
+    },
+    {
+        "Station_Name": "NAUTANWA APMC",
+        "Station_Code": "100182"
+    },
+    {
+        "Station_Name": "NAWABGANJ APMC",
+        "Station_Code": "100183"
+    },
+    {
+        "Station_Name": "PALIA KALAN",
+        "Station_Code": "100184"
+    },
+    {
+        "Station_Name": "PARTAWAL",
+        "Station_Code": "100185"
+    },
+    {
+        "Station_Name": "POWAYAN",
+        "Station_Code": "100186"
+    },
+    {
+        "Station_Name": "PRATAPGARH",
+        "Station_Code": "100187"
+    },
+    {
+        "Station_Name": "HINGOLI",
+        "Station_Code": "100188"
+    },
+    {
+        "Station_Name": "PURANPUR",
+        "Station_Code": "100189"
+    },
+    {
+        "Station_Name": "RAE BARELI",
+        "Station_Code": "100190"
+    },
+    {
+        "Station_Name": "RAMPUR",
+        "Station_Code": "100191"
+    },
+    {
+        "Station_Name": "RAMPUR BILASPUR",
+        "Station_Code": "100192"
+    },
+    {
+        "Station_Name": "RASRA APMC",
+        "Station_Code": "100193"
+    },
+    {
+        "Station_Name": "RATH",
+        "Station_Code": "100194"
+    },
+    {
+        "Station_Name": "ROBERTSGANJ",
+        "Station_Code": "100195"
+    },
+    {
+        "Station_Name": "SADABAD APMC",
+        "Station_Code": "100196"
+    },
+    {
+        "Station_Name": "SAFDARGANJ",
+        "Station_Code": "100197"
+    },
+    {
+        "Station_Name": "SAHIYAPUR",
+        "Station_Code": "100198"
+    },
+    {
+        "Station_Name": "SAHJANWA APMC",
+        "Station_Code": "100199"
+    },
+    {
+        "Station_Name": "SAMBHAL APMC",
+        "Station_Code": "100200"
+    },
+    {
+        "Station_Name": "SANDILA APMC",
+        "Station_Code": "100201"
+    },
+    {
+        "Station_Name": "SHAGANJ",
+        "Station_Code": "100202"
+    },
+    {
+        "Station_Name": "SHAHBAD HARDOI",
+        "Station_Code": "100203"
+    },
+    {
+        "Station_Name": "SHAMLI",
+        "Station_Code": "100204"
+    },
+    {
+        "Station_Name": "SHIKOHABAD",
+        "Station_Code": "100205"
+    },
+    {
+        "Station_Name": "SIRSAGANJ",
+        "Station_Code": "100206"
+    },
+    {
+        "Station_Name": "SITAPUR",
+        "Station_Code": "100207"
+    },
+    {
+        "Station_Name": "TIKUNIYA",
+        "Station_Code": "100208"
+    },
+    {
+        "Station_Name": "TULSIPUR APMC",
+        "Station_Code": "100209"
+    },
+    {
+        "Station_Name": "TUNDLA",
+        "Station_Code": "100210"
+    },
+    {
+        "Station_Name": "UJHANI",
+        "Station_Code": "100211"
+    },
+    {
+        "Station_Name": "UNNAO APMC",
+        "Station_Code": "100212"
+    },
+    {
+        "Station_Name": "URAI",
+        "Station_Code": "100213"
+    },
+    {
+        "Station_Name": "WAZIRGANJ APMC",
+        "Station_Code": "100214"
+    },
+    {
+        "Station_Name": "BAZPUR",
+        "Station_Code": "100215"
+    },
+    {
+        "Station_Name": "GADARPUR",
+        "Station_Code": "100216"
+    },
+    {
+        "Station_Name": "HALDWANI",
+        "Station_Code": "100217"
+    },
+    {
+        "Station_Name": "JASPUR",
+        "Station_Code": "100218"
+    },
+    {
+        "Station_Name": "KASHIPUR",
+        "Station_Code": "100219"
+    },
+    {
+        "Station_Name": "KHATIMA",
+        "Station_Code": "100220"
+    },
+    {
+        "Station_Name": "NANAKMATTA",
+        "Station_Code": "100221"
+    },
+    {
+        "Station_Name": "RAMNAGAR",
+        "Station_Code": "100222"
+    },
+    {
+        "Station_Name": "ROORKEE",
+        "Station_Code": "100223"
+    },
+    {
+        "Station_Name": "SITARGANJ",
+        "Station_Code": "100224"
+    },
+    {
+        "Station_Name": "VIKASNAGAR",
+        "Station_Code": "100225"
+    },
+    {
+        "Station_Name": "BAGDA KRISHAK BAZAR",
+        "Station_Code": "100226"
+    },
+    {
+        "Station_Name": "BETHUADAHARI PRINCIPAL MARKET YARD",
+        "Station_Code": "100227"
+    },
+    {
+        "Station_Name": "BISHNUPUR",
+        "Station_Code": "100228"
+    },
+    {
+        "Station_Name": "DHUPGURI PRINCIPAL MARKET YARD",
+        "Station_Code": "100229"
+    },
+    {
+        "Station_Name": "FALAKATA",
+        "Station_Code": "100230"
+    },
+    {
+        "Station_Name": "GANGARAMPUR",
+        "Station_Code": "100231"
+    },
+    {
+        "Station_Name": "ISLAMPUR PRINCIPAL MARKET YARD",
+        "Station_Code": "100232"
+    },
+    {
+        "Station_Name": "JIYAGANJ KRISHAK BAZAR",
+        "Station_Code": "100233"
+    },
+    {
+        "Station_Name": "KALNA SUB MARKET YARD",
+        "Station_Code": "100234"
+    },
+    {
+        "Station_Name": "KARIMPUR SUBMARKET YARD",
+        "Station_Code": "100235"
+    },
+    {
+        "Station_Name": "MOHAMAD BAZAR KRISHAK BAZAR",
+        "Station_Code": "100236"
+    },
+    {
+        "Station_Name": "NAKASHIPARA KRISHAK BAZAR",
+        "Station_Code": "100237"
+    },
+    {
+        "Station_Name": "PANSKURA I KRISHAK BAZAR",
+        "Station_Code": "100238"
+    },
+    {
+        "Station_Name": "SAMSHERGANJ KRISHAK BAZAR",
+        "Station_Code": "100239"
+    },
+    {
+        "Station_Name": "SAMSI SUB MARKET YARD",
+        "Station_Code": "100240"
+    },
+    {
+        "Station_Name": "SHEORAPHULI",
+        "Station_Code": "100241"
+    },
+    {
+        "Station_Name": "SIMLAPAL",
+        "Station_Code": "100242"
+    },
+    {
+        "Station_Name": "BALOD",
+        "Station_Code": "100243"
+    },
+    {
+        "Station_Name": "BHATAPARA",
+        "Station_Code": "100244"
+    },
+    {
+        "Station_Name": "DHAMTARI",
+        "Station_Code": "100245"
+    },
+    {
+        "Station_Name": "KAWARADHA",
+        "Station_Code": "100246"
+    },
+    {
+        "Station_Name": "KURUD",
+        "Station_Code": "100247"
+    },
+    {
+        "Station_Name": "MUNGELI",
+        "Station_Code": "100248"
+    },
+    {
+        "Station_Name": "NAVAPARA",
+        "Station_Code": "100249"
+    },
+    {
+        "Station_Name": "PATELPALI RAIGARH",
+        "Station_Code": "100250"
+    },
+    {
+        "Station_Name": "RAJIM",
+        "Station_Code": "100251"
+    },
+    {
+        "Station_Name": "HIMMATNAGAR",
+        "Station_Code": "100252"
+    },
+    {
+        "Station_Name": "VADALI APMC",
+        "Station_Code": "100253"
+    },
+    {
+        "Station_Name": "ADAMPUR",
+        "Station_Code": "100254"
+    },
+    {
+        "Station_Name": "ASANDH",
+        "Station_Code": "100255"
+    },
+    {
+        "Station_Name": "ATELI APMC",
+        "Station_Code": "100256"
+    },
+    {
+        "Station_Name": "BHATTU KALAN APMC",
+        "Station_Code": "100257"
+    },
+    {
+        "Station_Name": "CH DADRI",
+        "Station_Code": "100258"
+    },
+    {
+        "Station_Name": "CHEEKA",
+        "Station_Code": "100259"
+    },
+    {
+        "Station_Name": "CHHACHHRAULI",
+        "Station_Code": "100260"
+    },
+    {
+        "Station_Name": "DABWALI",
+        "Station_Code": "100261"
+    },
+    {
+        "Station_Name": "DHAND",
+        "Station_Code": "100262"
+    },
+    {
+        "Station_Name": "ELLANABAD",
+        "Station_Code": "100263"
+    },
+    {
+        "Station_Name": "FATEHABAD",
+        "Station_Code": "100264"
+    },
+    {
+        "Station_Name": "FEROZPUR JHIRKA APMC",
+        "Station_Code": "100265"
+    },
+    {
+        "Station_Name": "GANAUR",
+        "Station_Code": "100266"
+    },
+    {
+        "Station_Name": "GOHANA",
+        "Station_Code": "100267"
+    },
+    {
+        "Station_Name": "HODAL",
+        "Station_Code": "100268"
+    },
+    {
+        "Station_Name": "INDRI",
+        "Station_Code": "100269"
+    },
+    {
+        "Station_Name": "ISMAILABAD",
+        "Station_Code": "100270"
+    },
+    {
+        "Station_Name": "ISRANA APMC",
+        "Station_Code": "100271"
+    },
+    {
+        "Station_Name": "JAGADHRI APMC",
+        "Station_Code": "100272"
+    },
+    {
+        "Station_Name": "JAKHAL",
+        "Station_Code": "100273"
+    },
+    {
+        "Station_Name": "JHAJJAR",
+        "Station_Code": "100274"
+    },
+    {
+        "Station_Name": "JIND",
+        "Station_Code": "100275"
+    },
+    {
+        "Station_Name": "JULANA",
+        "Station_Code": "100276"
+    },
+    {
+        "Station_Name": "KAITHAL",
+        "Station_Code": "100277"
+    },
+    {
+        "Station_Name": "KALANWALI",
+        "Station_Code": "100278"
+    },
+    {
+        "Station_Name": "KALAYAT",
+        "Station_Code": "100279"
+    },
+    {
+        "Station_Name": "KANINA APMC",
+        "Station_Code": "100280"
+    },
+    {
+        "Station_Name": "KOSLI APMC",
+        "Station_Code": "100281"
+    },
+    {
+        "Station_Name": "LADWA",
+        "Station_Code": "100282"
+    },
+    {
+        "Station_Name": "MADLAUDA",
+        "Station_Code": "100283"
+    },
+    {
+        "Station_Name": "MEHAM APMC",
+        "Station_Code": "100284"
+    },
+    {
+        "Station_Name": "MOHINDERGARH APMC",
+        "Station_Code": "100285"
+    },
+    {
+        "Station_Name": "MULLANA",
+        "Station_Code": "100286"
+    },
+    {
+        "Station_Name": "NARAINGARH APMC",
+        "Station_Code": "100287"
+    },
+    {
+        "Station_Name": "NARNAUND",
+        "Station_Code": "100288"
+    },
+    {
+        "Station_Name": "NARWANA",
+        "Station_Code": "100289"
+    },
+    {
+        "Station_Name": "NIGDHU APMC",
+        "Station_Code": "100290"
+    },
+    {
+        "Station_Name": "NISSING",
+        "Station_Code": "100291"
+    },
+    {
+        "Station_Name": "NUH APMC",
+        "Station_Code": "100292"
+    },
+    {
+        "Station_Name": "PAI APMC",
+        "Station_Code": "100293"
+    },
+    {
+        "Station_Name": "PALWAL",
+        "Station_Code": "100294"
+    },
+    {
+        "Station_Name": "PANCHKULA APMC",
+        "Station_Code": "100295"
+    },
+    {
+        "Station_Name": "PEHOWA",
+        "Station_Code": "100296"
+    },
+    {
+        "Station_Name": "PILLUKHERA",
+        "Station_Code": "100297"
+    },
+    {
+        "Station_Name": "PUNDRI",
+        "Station_Code": "100298"
+    },
+    {
+        "Station_Name": "PUNHANA APMC",
+        "Station_Code": "100299"
+    },
+    {
+        "Station_Name": "RAIPUR RANI APMC",
+        "Station_Code": "100300"
+    },
+    {
+        "Station_Name": "RANIA",
+        "Station_Code": "100301"
+    },
+    {
+        "Station_Name": "RATIA",
+        "Station_Code": "100302"
+    },
+    {
+        "Station_Name": "REWARI",
+        "Station_Code": "100303"
+    },
+    {
+        "Station_Name": "SADHAURA APMC",
+        "Station_Code": "100304"
+    },
+    {
+        "Station_Name": "SAFIDON",
+        "Station_Code": "100305"
+    },
+    {
+        "Station_Name": "SAMALKHA",
+        "Station_Code": "100306"
+    },
+    {
+        "Station_Name": "SHAHBAD",
+        "Station_Code": "100307"
+    },
+    {
+        "Station_Name": "SHAHZADPUR APMC",
+        "Station_Code": "100308"
+    },
+    {
+        "Station_Name": "SIWANI",
+        "Station_Code": "100309"
+    },
+    {
+        "Station_Name": "SONEPAT",
+        "Station_Code": "100310"
+    },
+    {
+        "Station_Name": "TAURU APMC",
+        "Station_Code": "100311"
+    },
+    {
+        "Station_Name": "TOHANA",
+        "Station_Code": "100312"
+    },
+    {
+        "Station_Name": "UCHANA",
+        "Station_Code": "100313"
+    },
+    {
+        "Station_Name": "UKLANA APMC",
+        "Station_Code": "100314"
+    },
+    {
+        "Station_Name": "YAMUNA NAGAR APMC",
+        "Station_Code": "100315"
+    },
+    {
+        "Station_Name": "NARWAL",
+        "Station_Code": "100316"
+    },
+    {
+        "Station_Name": "PARIMPORA SGR",
+        "Station_Code": "100317"
+    },
+    {
+        "Station_Name": "AGAR",
+        "Station_Code": "100318"
+    },
+    {
+        "Station_Name": "ASHTA",
+        "Station_Code": "100319"
+    },
+    {
+        "Station_Name": "BALAGHAT",
+        "Station_Code": "100320"
+    },
+    {
+        "Station_Name": "BARELI",
+        "Station_Code": "100321"
+    },
+    {
+        "Station_Name": "BIAORA",
+        "Station_Code": "100322"
+    },
+    {
+        "Station_Name": "BINA",
+        "Station_Code": "100323"
+    },
+    {
+        "Station_Name": "BURHANPUR",
+        "Station_Code": "100324"
+    },
+    {
+        "Station_Name": "CHHINDWARA",
+        "Station_Code": "100325"
+    },
+    {
+        "Station_Name": "DABRA",
+        "Station_Code": "100326"
+    },
+    {
+        "Station_Name": "DAMOH",
+        "Station_Code": "100327"
+    },
+    {
+        "Station_Name": "DATIA",
+        "Station_Code": "100328"
+    },
+    {
+        "Station_Name": "GADARWARA",
+        "Station_Code": "100329"
+    },
+    {
+        "Station_Name": "HARDA",
+        "Station_Code": "100330"
+    },
+    {
+        "Station_Name": "ITARSI",
+        "Station_Code": "100331"
+    },
+    {
+        "Station_Name": "JAORA",
+        "Station_Code": "100332"
+    },
+    {
+        "Station_Name": "KATNI",
+        "Station_Code": "100333"
+    },
+    {
+        "Station_Name": "KHARGONE",
+        "Station_Code": "100334"
+    },
+    {
+        "Station_Name": "KHATEGAON",
+        "Station_Code": "100335"
+    },
+    {
+        "Station_Name": "KHIRKIYA",
+        "Station_Code": "100336"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-ANJAD",
+        "Station_Code": "100337"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-BADWAHA",
+        "Station_Code": "100338"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-BANAPURA",
+        "Station_Code": "100339"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-BHIKANGAON",
+        "Station_Code": "100340"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-KARELI",
+        "Station_Code": "100341"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-KARHI",
+        "Station_Code": "100342"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-KUKSHI",
+        "Station_Code": "100343"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-NASRULLAGANJ",
+        "Station_Code": "100344"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-PANDHURNA",
+        "Station_Code": "100345"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-SANAWAD",
+        "Station_Code": "100346"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-SAUNSAR",
+        "Station_Code": "100347"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-SINGRAULI",
+        "Station_Code": "100348"
+    },
+    {
+        "Station_Name": "KRISHI UPAJ MANDI SAMITI-UDAIPURA",
+        "Station_Code": "100349"
+    },
+    {
+        "Station_Name": "MANDSAUR",
+        "Station_Code": "100350"
+    },
+    {
+        "Station_Name": "MHOW",
+        "Station_Code": "100351"
+    },
+    {
+        "Station_Name": "NEEMUCH",
+        "Station_Code": "100352"
+    },
+    {
+        "Station_Name": "PIPARIYA",
+        "Station_Code": "100353"
+    },
+    {
+        "Station_Name": "RATLAM",
+        "Station_Code": "100354"
+    },
+    {
+        "Station_Name": "SENDHWA",
+        "Station_Code": "100355"
+    },
+    {
+        "Station_Name": "SHAJAPUR",
+        "Station_Code": "100356"
+    },
+    {
+        "Station_Name": "SHEOPURKALAN",
+        "Station_Code": "100357"
+    },
+    {
+        "Station_Name": "SHUJALPUR",
+        "Station_Code": "100358"
+    },
+    {
+        "Station_Name": "TIKAMGARH",
+        "Station_Code": "100359"
+    },
+    {
+        "Station_Name": "TIMARNI",
+        "Station_Code": "100360"
+    },
+    {
+        "Station_Name": "AATPADI",
+        "Station_Code": "100361"
+    },
+    {
+        "Station_Name": "AHERI",
+        "Station_Code": "100362"
+    },
+    {
+        "Station_Name": "AMALNER",
+        "Station_Code": "100363"
+    },
+    {
+        "Station_Name": "ARJUNI MORGOAN",
+        "Station_Code": "100364"
+    },
+    {
+        "Station_Name": "AUSA",
+        "Station_Code": "100365"
+    },
+    {
+        "Station_Name": "BARAMATI",
+        "Station_Code": "100366"
+    },
+    {
+        "Station_Name": "CHAMORSHI",
+        "Station_Code": "100367"
+    },
+    {
+        "Station_Name": "CHANDVAD",
+        "Station_Code": "100368"
+    },
+    {
+        "Station_Name": "CHIKHALI",
+        "Station_Code": "100369"
+    },
+    {
+        "Station_Name": "DEVALA",
+        "Station_Code": "100370"
+    },
+    {
+        "Station_Name": "DIGRAS",
+        "Station_Code": "100371"
+    },
+    {
+        "Station_Name": "DONDAICHA",
+        "Station_Code": "100372"
+    },
+    {
+        "Station_Name": "DOUND",
+        "Station_Code": "100373"
+    },
+    {
+        "Station_Name": "GEVRAI",
+        "Station_Code": "100374"
+    },
+    {
+        "Station_Name": "KANNAD",
+        "Station_Code": "100375"
+    },
+    {
+        "Station_Name": "LONAND",
+        "Station_Code": "100376"
+    },
+    {
+        "Station_Name": "MANGALWEDHA",
+        "Station_Code": "100377"
+    },
+    {
+        "Station_Name": "MANGRULPEER",
+        "Station_Code": "100378"
+    },
+    {
+        "Station_Name": "MANORA",
+        "Station_Code": "100379"
+    },
+    {
+        "Station_Name": "NANDURBAR",
+        "Station_Code": "100380"
+    },
+    {
+        "Station_Name": "RISOD",
+        "Station_Code": "100381"
+    },
+    {
+        "Station_Name": "SINDI",
+        "Station_Code": "100382"
+    },
+    {
+        "Station_Name": "VARORA",
+        "Station_Code": "100383"
+    },
+    {
+        "Station_Name": "WASHIM",
+        "Station_Code": "100384"
+    },
+    {
+        "Station_Name": "YEOLA",
+        "Station_Code": "100385"
+    },
+    {
+        "Station_Name": "ANANDAPUR",
+        "Station_Code": "100386"
+    },
+    {
+        "Station_Name": "BAHADAJHOLA",
+        "Station_Code": "100387"
+    },
+    {
+        "Station_Name": "BALUGAON",
+        "Station_Code": "100388"
+    },
+    {
+        "Station_Name": "BARIPADA",
+        "Station_Code": "100390"
+    },
+    {
+        "Station_Name": "BETNOTI",
+        "Station_Code": "100391"
+    },
+    {
+        "Station_Name": "BHADRAK",
+        "Station_Code": "100392"
+    },
+    {
+        "Station_Name": "BONAI",
+        "Station_Code": "100393"
+    },
+    {
+        "Station_Name": "DUNGURIPALI",
+        "Station_Code": "100395"
+    },
+    {
+        "Station_Name": "GUNUPUR",
+        "Station_Code": "100396"
+    },
+    {
+        "Station_Name": "JALESWAR",
+        "Station_Code": "100399"
+    },
+    {
+        "Station_Name": "KUCHINDA",
+        "Station_Code": "100401"
+    },
+    {
+        "Station_Name": "MALKANGIRI",
+        "Station_Code": "100402"
+    },
+    {
+        "Station_Name": "NIMAPARA",
+        "Station_Code": "100404"
+    },
+    {
+        "Station_Name": "PADAMPUR OD",
+        "Station_Code": "100405"
+    },
+    {
+        "Station_Name": "PANPOSH",
+        "Station_Code": "100406"
+    },
+    {
+        "Station_Name": "PARALAKHEMUNDI",
+        "Station_Code": "100407"
+    },
+    {
+        "Station_Name": "RAYAGADA",
+        "Station_Code": "100408"
+    },
+    {
+        "Station_Name": "TIKABALI",
+        "Station_Code": "100409"
+    },
+    {
+        "Station_Name": "UDALA",
+        "Station_Code": "100410"
+    },
+    {
+        "Station_Name": "THATTANCHAVADY",
+        "Station_Code": "100411"
+    },
+    {
+        "Station_Name": "ABOHAR",
+        "Station_Code": "100412"
+    },
+    {
+        "Station_Name": "AMLOH APMC",
+        "Station_Code": "100413"
+    },
+    {
+        "Station_Name": "BARNALA",
+        "Station_Code": "100414"
+    },
+    {
+        "Station_Name": "BHIKHI APMC",
+        "Station_Code": "100415"
+    },
+    {
+        "Station_Name": "BUDHLADA APMC",
+        "Station_Code": "100416"
+    },
+    {
+        "Station_Name": "FARIDKOT APMC",
+        "Station_Code": "100417"
+    },
+    {
+        "Station_Name": "FATHEGARH SAHIB",
+        "Station_Code": "100418"
+    },
+    {
+        "Station_Name": "FAZILKA",
+        "Station_Code": "100419"
+    },
+    {
+        "Station_Name": "GIDDERBAHA",
+        "Station_Code": "100420"
+    },
+    {
+        "Station_Name": "GURDASPUR APMC",
+        "Station_Code": "100421"
+    },
+    {
+        "Station_Name": "HOSHIYARPUR",
+        "Station_Code": "100422"
+    },
+    {
+        "Station_Name": "KHANNA APMC",
+        "Station_Code": "100423"
+    },
+    {
+        "Station_Name": "KOTKAPURA APMC",
+        "Station_Code": "100424"
+    },
+    {
+        "Station_Name": "MALOUT APMC",
+        "Station_Code": "100425"
+    },
+    {
+        "Station_Name": "MANSA",
+        "Station_Code": "100426"
+    },
+    {
+        "Station_Name": "MAUR",
+        "Station_Code": "100427"
+    },
+    {
+        "Station_Name": "MOGA APMC",
+        "Station_Code": "100428"
+    },
+    {
+        "Station_Name": "MUKTSAR",
+        "Station_Code": "100429"
+    },
+    {
+        "Station_Name": "NAWANSHAHR MARKET",
+        "Station_Code": "100430"
+    },
+    {
+        "Station_Name": "RAMAN APMC",
+        "Station_Code": "100431"
+    },
+    {
+        "Station_Name": "RAMPURA PHUL",
+        "Station_Code": "100432"
+    },
+    {
+        "Station_Name": "ROPAR",
+        "Station_Code": "100433"
+    },
+    {
+        "Station_Name": "SANGRUR",
+        "Station_Code": "100434"
+    },
+    {
+        "Station_Name": "SARDULGARH APMC",
+        "Station_Code": "100435"
+    },
+    {
+        "Station_Name": "TAPPA",
+        "Station_Code": "100436"
+    },
+    {
+        "Station_Name": "TARN TARAN APMC",
+        "Station_Code": "100437"
+    },
+    {
+        "Station_Name": "AMMOOR",
+        "Station_Code": "100438"
+    },
+    {
+        "Station_Name": "ANAIMALAI",
+        "Station_Code": "100439"
+    },
+    {
+        "Station_Name": "ANNUR",
+        "Station_Code": "100440"
+    },
+    {
+        "Station_Name": "ANTHIYUR",
+        "Station_Code": "100441"
+    },
+    {
+        "Station_Name": "ARANI",
+        "Station_Code": "100442"
+    },
+    {
+        "Station_Name": "AVALURPET",
+        "Station_Code": "100443"
+    },
+    {
+        "Station_Name": "CHETPET",
+        "Station_Code": "100444"
+    },
+    {
+        "Station_Name": "CHEYYAR",
+        "Station_Code": "100445"
+    },
+    {
+        "Station_Name": "CUMBUM",
+        "Station_Code": "100446"
+    },
+    {
+        "Station_Name": "DESUR",
+        "Station_Code": "100447"
+    },
+    {
+        "Station_Name": "DINDIGUL",
+        "Station_Code": "100448"
+    },
+    {
+        "Station_Name": "ERODE",
+        "Station_Code": "100449"
+    },
+    {
+        "Station_Name": "GINGEE",
+        "Station_Code": "100450"
+    },
+    {
+        "Station_Name": "GOBICHETTIPALAYAM",
+        "Station_Code": "100451"
+    },
+    {
+        "Station_Name": "GUDIYATHAM",
+        "Station_Code": "100452"
+    },
+    {
+        "Station_Name": "HARUR",
+        "Station_Code": "100453"
+    },
+    {
+        "Station_Name": "KALAVAI",
+        "Station_Code": "100454"
+    },
+    {
+        "Station_Name": "KALLAKURICHI",
+        "Station_Code": "100455"
+    },
+    {
+        "Station_Name": "KAMUTHI",
+        "Station_Code": "100456"
+    },
+    {
+        "Station_Name": "KANCHEEPURAM",
+        "Station_Code": "100457"
+    },
+    {
+        "Station_Name": "KUTHALAM",
+        "Station_Code": "100459"
+    },
+    {
+        "Station_Name": "LALGUDI",
+        "Station_Code": "100460"
+    },
+    {
+        "Station_Name": "MADURANATHANGAM",
+        "Station_Code": "100462"
+    },
+    {
+        "Station_Name": "MAYILADUTHURAI",
+        "Station_Code": "100463"
+    },
+    {
+        "Station_Name": "MOOLANUR",
+        "Station_Code": "100464"
+    },
+    {
+        "Station_Name": "MUDHUKALATHUR",
+        "Station_Code": "100465"
+    },
+    {
+        "Station_Name": "NATHAM",
+        "Station_Code": "100466"
+    },
+    {
+        "Station_Name": "ODDANCHATRAM",
+        "Station_Code": "100467"
+    },
+    {
+        "Station_Name": "PALANI",
+        "Station_Code": "100468"
+    },
+    {
+        "Station_Name": "PANRUTI",
+        "Station_Code": "100469"
+    },
+    {
+        "Station_Name": "PARAMAKUDI",
+        "Station_Code": "100470"
+    },
+    {
+        "Station_Name": "PARAMATHI VELUR",
+        "Station_Code": "100471"
+    },
+    {
+        "Station_Name": "PERUNDURAI",
+        "Station_Code": "100472"
+    },
+    {
+        "Station_Name": "PETHAPPAMPATTI",
+        "Station_Code": "100473"
+    },
+    {
+        "Station_Name": "POLLACHI",
+        "Station_Code": "100474"
+    },
+    {
+        "Station_Name": "POLUR",
+        "Station_Code": "100475"
+    },
+    {
+        "Station_Name": "RAJAPALAYAM",
+        "Station_Code": "100476"
+    },
+    {
+        "Station_Name": "RAJASINGAMANGALAM",
+        "Station_Code": "100477"
+    },
+    {
+        "Station_Name": "SANKARAPURAM",
+        "Station_Code": "100478"
+    },
+    {
+        "Station_Name": "SATHYAMANGALAM",
+        "Station_Code": "100479"
+    },
+    {
+        "Station_Name": "SEMBANARKOIL",
+        "Station_Code": "100480"
+    },
+    {
+        "Station_Name": "SIRKALI",
+        "Station_Code": "100481"
+    },
+    {
+        "Station_Name": "THENI",
+        "Station_Code": "100482"
+    },
+    {
+        "Station_Name": "THIRUKOVILUR",
+        "Station_Code": "100483"
+    },
+    {
+        "Station_Name": "THIRUPATHUR",
+        "Station_Code": "100484"
+    },
+    {
+        "Station_Name": "THIRUPPUR",
+        "Station_Code": "100485"
+    },
+    {
+        "Station_Name": "THIYAGADURGAM",
+        "Station_Code": "100486"
+    },
+    {
+        "Station_Name": "TINDIVANAM",
+        "Station_Code": "100487"
+    },
+    {
+        "Station_Name": "UDUMALPET",
+        "Station_Code": "100488"
+    },
+    {
+        "Station_Name": "ULUNDURPETTAI",
+        "Station_Code": "100489"
+    },
+    {
+        "Station_Name": "USILAMPATTI",
+        "Station_Code": "100490"
+    },
+    {
+        "Station_Name": "VANDAVASI",
+        "Station_Code": "100491"
+    },
+    {
+        "Station_Name": "VANIYAMBADI",
+        "Station_Code": "100492"
+    },
+    {
+        "Station_Name": "VELLAKOIL",
+        "Station_Code": "100493"
+    },
+    {
+        "Station_Name": "VETTAVALAM",
+        "Station_Code": "100495"
+    },
+    {
+        "Station_Name": "VIKIRAVANDI",
+        "Station_Code": "100496"
+    },
+    {
+        "Station_Name": "VILLUPURAM",
+        "Station_Code": "100497"
+    },
+    {
+        "Station_Name": "VIRUDHACHALAM",
+        "Station_Code": "100498"
+    },
+    {
+        "Station_Name": "VIRUDHUNAGAR",
+        "Station_Code": "100499"
+    },
+    {
+        "Station_Name": "ACHAMPET",
+        "Station_Code": "100500"
+    },
+    {
+        "Station_Name": "ATMAKUR",
+        "Station_Code": "100501"
+    },
+    {
+        "Station_Name": "BADEPALLY",
+        "Station_Code": "100502"
+    },
+    {
+        "Station_Name": "BHAINSA",
+        "Station_Code": "100503"
+    },
+    {
+        "Station_Name": "CHOPPADANDI",
+        "Station_Code": "100504"
+    },
+    {
+        "Station_Name": "DEVARAKADRA",
+        "Station_Code": "100505"
+    },
+    {
+        "Station_Name": "DEVARAKONDA",
+        "Station_Code": "100506"
+    },
+    {
+        "Station_Name": "ECHODA",
+        "Station_Code": "100507"
+    },
+    {
+        "Station_Name": "ENKOOR",
+        "Station_Code": "100508"
+    },
+    {
+        "Station_Name": "GADDIANNARAM",
+        "Station_Code": "100509"
+    },
+    {
+        "Station_Name": "GADWAL",
+        "Station_Code": "100510"
+    },
+    {
+        "Station_Name": "GAJWEL",
+        "Station_Code": "100511"
+    },
+    {
+        "Station_Name": "GANGADHARA",
+        "Station_Code": "100512"
+    },
+    {
+        "Station_Name": "GOLLAPALLY",
+        "Station_Code": "100513"
+    },
+    {
+        "Station_Name": "GUDIMALKAPUR",
+        "Station_Code": "100514"
+    },
+    {
+        "Station_Name": "HUSNABAD",
+        "Station_Code": "100515"
+    },
+    {
+        "Station_Name": "JAGTIAL",
+        "Station_Code": "100516"
+    },
+    {
+        "Station_Name": "JAMMIKUNTA",
+        "Station_Code": "100517"
+    },
+    {
+        "Station_Name": "JANGAON",
+        "Station_Code": "100518"
+    },
+    {
+        "Station_Name": "KALWAKURTHY",
+        "Station_Code": "100519"
+    },
+    {
+        "Station_Name": "KAMAREDDY",
+        "Station_Code": "100520"
+    },
+    {
+        "Station_Name": "KARIMNAGAR",
+        "Station_Code": "100521"
+    },
+    {
+        "Station_Name": "KESAMUDRAM",
+        "Station_Code": "100522"
+    },
+    {
+        "Station_Name": "MADNOOR",
+        "Station_Code": "100523"
+    },
+    {
+        "Station_Name": "MAHABUBABAD",
+        "Station_Code": "100524"
+    },
+    {
+        "Station_Name": "MAKTHAL",
+        "Station_Code": "100525"
+    },
+    {
+        "Station_Name": "METPALLY",
+        "Station_Code": "100526"
+    },
+    {
+        "Station_Name": "MIRYALAGUDA",
+        "Station_Code": "100527"
+    },
+    {
+        "Station_Name": "NAGARKURNOOL",
+        "Station_Code": "100528"
+    },
+    {
+        "Station_Name": "NAKREKAL",
+        "Station_Code": "100529"
+    },
+    {
+        "Station_Name": "NARAYANPET",
+        "Station_Code": "100530"
+    },
+    {
+        "Station_Name": "NARSAMPET",
+        "Station_Code": "100531"
+    },
+    {
+        "Station_Name": "NAWABPET",
+        "Station_Code": "100532"
+    },
+    {
+        "Station_Name": "PARGI",
+        "Station_Code": "100533"
+    },
+    {
+        "Station_Name": "PARKAL",
+        "Station_Code": "100534"
+    },
+    {
+        "Station_Name": "SADASIVPET",
+        "Station_Code": "100535"
+    },
+    {
+        "Station_Name": "SHADNAGAR",
+        "Station_Code": "100536"
+    },
+    {
+        "Station_Name": "SHANKARAPALLY",
+        "Station_Code": "100537"
+    },
+    {
+        "Station_Name": "SIDDIPET",
+        "Station_Code": "100538"
+    },
+    {
+        "Station_Name": "SURYAPETA",
+        "Station_Code": "100539"
+    },
+    {
+        "Station_Name": "TANDUR",
+        "Station_Code": "100540"
+    },
+    {
+        "Station_Name": "TIRUMALGIRI",
+        "Station_Code": "100541"
+    },
+    {
+        "Station_Name": "VATPALLY",
+        "Station_Code": "100542"
+    },
+    {
+        "Station_Name": "VIKARABAD",
+        "Station_Code": "100543"
+    },
+    {
+        "Station_Name": "WANAPARTHY ROAD",
+        "Station_Code": "100544"
+    },
+    {
+        "Station_Name": "WANAPARTHY TOWN",
+        "Station_Code": "100545"
+    },
+    {
+        "Station_Name": "ZAHEERABAD",
+        "Station_Code": "100546"
+    },
+    {
+        "Station_Name": "JALNA",
+        "Station_Code": "100547"
+    },
+    {
+        "Station_Name": "PARTUR",
+        "Station_Code": "100548"
+    },
+    {
+        "Station_Name": "TUMSAR",
+        "Station_Code": "100549"
+    },
+    {
+        "Station_Name": "RAJSAMAND",
+        "Station_Code": "100550"
+    },
+    {
+        "Station_Name": "RIDMALSAR",
+        "Station_Code": "100551"
+    },
+    {
+        "Station_Name": "NEGAMAM",
+        "Station_Code": "100552"
+    },
+    {
+        "Station_Name": "AMROHA APMC",
+        "Station_Code": "100553"
+    },
+    {
+        "Station_Name": "AYODHYA",
+        "Station_Code": "100554"
+    },
+    {
+        "Station_Name": "GONDA",
+        "Station_Code": "100555"
+    },
+    {
+        "Station_Name": "JAHANGIRABAD",
+        "Station_Code": "100556"
+    },
+    {
+        "Station_Name": "KOPAGANJ",
+        "Station_Code": "100557"
+    },
+    {
+        "Station_Name": "MOHAMADABAD APMC",
+        "Station_Code": "100558"
+    },
+    {
+        "Station_Name": "NOIDA APMC",
+        "Station_Code": "100559"
+    },
+    {
+        "Station_Name": "PILIBHIT",
+        "Station_Code": "100560"
+    },
+    {
+        "Station_Name": "SAHARANPUR",
+        "Station_Code": "100561"
+    },
+    {
+        "Station_Name": "Allain Duhangan",
+        "Station_Code": "101000"
+    },
+    {
+        "Station_Name": "Bajoli Holi",
+        "Station_Code": "101002"
+    },
+    {
+        "Station_Name": "BASPA",
+        "Station_Code": "101003"
+    },
+    {
+        "Station_Name": "BUDHIL",
+        "Station_Code": "101004"
+    },
+    {
+        "Station_Name": "CHAMERA-III",
+        "Station_Code": "101005"
+    },
+    {
+        "Station_Name": "CHANJU-I",
+        "Station_Code": "101006"
+    },
+    {
+        "Station_Name": "CHUJACHEN",
+        "Station_Code": "101007"
+    },
+    {
+        "Station_Name": "CHUTAK",
+        "Station_Code": "101008"
+    },
+    {
+        "Station_Name": "DIKCHU",
+        "Station_Code": "101010"
+    },
+    {
+        "Station_Name": "INTEGRATED KASHANG",
+        "Station_Code": "101011"
+    },
+    {
+        "Station_Name": "KAMENG-Bichom Dam",
+        "Station_Code": "101012"
+    },
+    {
+        "Station_Name": "KAMENG-Tenga Dam",
+        "Station_Code": "101013"
+    },
+    {
+        "Station_Name": "KARCHAM WANGTOO",
+        "Station_Code": "101014"
+    },
+    {
+        "Station_Name": "Kutehr",
+        "Station_Code": "101017"
+    },
+    {
+        "Station_Name": "MALANA",
+        "Station_Code": "101018"
+    },
+    {
+        "Station_Name": "MALANA-II",
+        "Station_Code": "101019"
+    },
+    {
+        "Station_Name": "NATHPA JHAKRI",
+        "Station_Code": "101023"
+    },
+    {
+        "Station_Name": "Parbati St. II",
+        "Station_Code": "101026"
+    },
+    {
+        "Station_Name": "RANGANADI",
+        "Station_Code": "101027"
+    },
+    {
+        "Station_Name": "RANGIT",
+        "Station_Code": "101028"
+    },
+    {
+        "Station_Name": "RONGNICHU",
+        "Station_Code": "101029"
+    },
+    {
+        "Station_Name": "SAINJ",
+        "Station_Code": "101030"
+    },
+    {
+        "Station_Name": "SANJAY (BHABA)",
+        "Station_Code": "101031"
+    },
+    {
+        "Station_Name": "SAWRA KUDDU",
+        "Station_Code": "101032"
+    },
+    {
+        "Station_Name": "Shongtong Karcham",
+        "Station_Code": "101035"
+    },
+    {
+        "Station_Name": "Subansiri Lower",
+        "Station_Code": "101039"
+    },
+    {
+        "Station_Name": "TASHIDING",
+        "Station_Code": "101041"
+    },
+    {
+        "Station_Name": "TEESTA III",
+        "Station_Code": "101042"
+    },
+    {
+        "Station_Name": "Tidong-I",
+        "Station_Code": "101043"
+    },
+    {
+        "Station_Name": "Abbott Mount",
+        "Station_Code": "101048"
+    },
+    {
+        "Station_Name": "Asan Bird Sanctuary",
+        "Station_Code": "101049"
+    },
+    {
+        "Station_Name": "Auli",
+        "Station_Code": "101050"
+    },
+    {
+        "Station_Name": "Badrinath",
+        "Station_Code": "101051"
+    },
+    {
+        "Station_Name": "Bageshwar",
+        "Station_Code": "101052"
+    },
+    {
+        "Station_Name": "Baijnath",
+        "Station_Code": "101053"
+    },
+    {
+        "Station_Name": "Bhimtal",
+        "Station_Code": "101054"
+    },
+    {
+        "Station_Name": "Bhowali",
+        "Station_Code": "101055"
+    },
+    {
+        "Station_Name": "Binsar",
+        "Station_Code": "101056"
+    },
+    {
+        "Station_Name": "Chakrata",
+        "Station_Code": "101057"
+    },
+    {
+        "Station_Name": "Chaukori",
+        "Station_Code": "101059"
+    },
+    {
+        "Station_Name": "Chopta",
+        "Station_Code": "101060"
+    },
+    {
+        "Station_Name": "Corbett National Park",
+        "Station_Code": "101061"
+    },
+    {
+        "Station_Name": "Devprayag",
+        "Station_Code": "101062"
+    },
+    {
+        "Station_Name": "Dhanaulti",
+        "Station_Code": "101063"
+    },
+    {
+        "Station_Name": "Dharchula",
+        "Station_Code": "101064"
+    },
+    {
+        "Station_Name": "Gangotri",
+        "Station_Code": "101065"
+    },
+    {
+        "Station_Name": "Ghangaria",
+        "Station_Code": "101066"
+    },
+    {
+        "Station_Name": "Gopeshwar",
+        "Station_Code": "101067"
+    },
+    {
+        "Station_Name": "Guptkashi",
+        "Station_Code": "101068"
+    },
+    {
+        "Station_Name": "Gwaldam",
+        "Station_Code": "101069"
+    },
+    {
+        "Station_Name": "Harsil",
+        "Station_Code": "101070"
+    },
+    {
+        "Station_Name": "Hemkund Sahib",
+        "Station_Code": "101071"
+    },
+    {
+        "Station_Name": "Jageshwar",
+        "Station_Code": "101072"
+    },
+    {
+        "Station_Name": "Jeolikot",
+        "Station_Code": "101073"
+    },
+    {
+        "Station_Name": "Kanatal",
+        "Station_Code": "101074"
+    },
+    {
+        "Station_Name": "Kedarnath",
+        "Station_Code": "101075"
+    },
+    {
+        "Station_Name": "Khirsu",
+        "Station_Code": "101076"
+    },
+    {
+        "Station_Name": "Lohaghat",
+        "Station_Code": "101077"
+    },
+    {
+        "Station_Name": "Madhyamaheshwar",
+        "Station_Code": "101078"
+    },
+    {
+        "Station_Name": "Munsiyari",
+        "Station_Code": "101079"
+    },
+    {
+        "Station_Name": "Piran Kaliyar Sharif Dargah",
+        "Station_Code": "101080"
+    },
+    {
+        "Station_Name": "Rajaji National Park",
+        "Station_Code": "101081"
+    },
+    {
+        "Station_Name": "Ranikhet",
+        "Station_Code": "101083"
+    },
+    {
+        "Station_Name": "Sattal",
+        "Station_Code": "101084"
+    },
+    {
+        "Station_Name": "Tanakpur",
+        "Station_Code": "101085"
+    },
+    {
+        "Station_Name": "Udham Singh Nagar",
+        "Station_Code": "101086"
+    },
+    {
+        "Station_Name": "Valley Of Flowers",
+        "Station_Code": "101087"
+    },
+    {
+        "Station_Name": "Yamunotri",
+        "Station_Code": "101088"
+    }
+]
